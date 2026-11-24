@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Exclude large raw CSVs not needed by the dashboard
+data/*.csv
+!data/inventory_stockouts.csv

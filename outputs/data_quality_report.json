@@ -1,0 +1,61 @@
+{
+  "macro_indicators.csv": {
+    "rows_before": 114,
+    "rows_after": 113,
+    "issues": {
+      "duplicate_date_rows_removed": 1,
+      "auto_prod_2019_scale_100x_fixed": 12,
+      "pmi_decimal_shift_fixed": 1,
+      "missing_cells_interpolated": 5
+    }
+  },
+  "sku_master.csv": {
+    "rows_before": 601,
+    "rows_after": 601,
+    "issues": {
+      "business_unit_contradictions_fixed": 1,
+      "business_unit_contradiction_skus": [
+        "PMP-004"
+      ]
+    }
+  },
+  "train.csv": {
+    "rows_before": 248248,
+    "rows_after": 244566,
+    "unique_skus": 598,
+    "unique_sku_regions": 3083,
+    "issues": {
+      "duplicate_record_ids_removed": 3682,
+      "nonstandard_date_formats_fixed": 9821,
+      "transposed_year_2062_fixed": 30,
+      "year_month_disagreements_fixed": 246,
+      "malformed_sku_ids_fixed": 3683,
+      "sales_channel_variants_fixed": 3683,
+      "customer_name_variants_fixed": 2455,
+      "region_label_variants_fixed": 5912,
+      "missing_regions_recovered_slot": 916,
+      "missing_regions_recovered_context": 26,
+      "missing_regions_unresolved": 0,
+      "missing_product_family_filled": 1228,
+      "missing_sku_description_filled": 982,
+      "dash_units_converted_to_nan": 217,
+      "comma_formatted_units_parsed": 44,
+      "negative_units_sign_flipped": 491,
+      "eur_currency_errors_fixed": 498,
+      "india_10x_price_errors_fixed": 385,
+      "cents_100x_price_errors_fixed": 614,
+      "zero_price_on_positive_units_fixed": 295,
+      "missing_units_recovered_positive": 2545,
+      "missing_units_recovered_zero": 619,
+      "truly_missing_units_retained_nan": 380,
+      "units_10x_uom_errors_fixed": 293,
+      "units_100x_uom_errors_fixed": 75,
+      "revenue_reconciliations_applied": 2406,
+      "post_recovery_key_dups_removed": 0,
+      "master_launch_date_contradiction_rows": 16,
+      "master_launch_date_contradiction_skus": [
+        "BSS-018"
+      ]
+    }
+  }
+}

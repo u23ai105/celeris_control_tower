@@ -1,0 +1,117 @@
+Slice_Type,Slice_Value,Model,WAPE,Bias,RMSE
+Overall,All,Seasonal_Naive,0.3624,-0.0066,31.07
+Overall,All,SBA_ETS,0.5015,-0.013,40.619
+Overall,All,LGBM,0.2866,0.0157,24.136
+Overall,All,CatBoost,0.2762,-0.0165,23.946
+Overall,All,Hurdle,0.2857,0.0054,24.206
+Overall,All,Ridge_Trend,0.3319,-0.0838,28.179
+Overall,All,Ensemble,0.2788,0.005,23.832
+Product_Family,Brake & Safety Systems,Seasonal_Naive,0.3398,-0.0383,36.835
+Product_Family,Brake & Safety Systems,SBA_ETS,0.4703,-0.0369,49.161
+Product_Family,Brake & Safety Systems,Ensemble,0.2599,-0.0167,29.008
+Product_Family,Chassis & Structural,Seasonal_Naive,0.3546,-0.0353,30.92
+Product_Family,Chassis & Structural,SBA_ETS,0.4781,-0.0526,38.886
+Product_Family,Chassis & Structural,Ensemble,0.2731,0.0103,23.299
+Product_Family,Electrical Assemblies,Seasonal_Naive,0.393,-0.0075,24.75
+Product_Family,Electrical Assemblies,SBA_ETS,0.5175,-0.0029,29.808
+Product_Family,Electrical Assemblies,Ensemble,0.3063,0.0221,17.933
+Product_Family,Hydraulic Systems,Seasonal_Naive,0.3977,0.0015,27.737
+Product_Family,Hydraulic Systems,SBA_ETS,0.5489,0.0078,34.756
+Product_Family,Hydraulic Systems,Ensemble,0.2954,0.0087,20.649
+Product_Family,Powertrain Components,Seasonal_Naive,0.3626,0.036,28.834
+Product_Family,Powertrain Components,SBA_ETS,0.4986,0.0212,37.325
+Product_Family,Powertrain Components,Ensemble,0.281,0.0187,22.328
+Product_Family,Precision Machined Parts,Seasonal_Naive,0.3612,0.0208,33.421
+Product_Family,Precision Machined Parts,SBA_ETS,0.5123,0.0155,45.727
+Product_Family,Precision Machined Parts,Ensemble,0.2793,0.0057,25.578
+Product_Family,Thermal Management,Seasonal_Naive,0.351,-0.0112,33.85
+Product_Family,Thermal Management,SBA_ETS,0.5063,-0.0271,45.955
+Product_Family,Thermal Management,Ensemble,0.2737,-0.0005,26.735
+Region,Asia Pacific,Seasonal_Naive,0.3416,0.0023,31.437
+Region,Asia Pacific,SBA_ETS,0.4928,-0.0171,43.435
+Region,Asia Pacific,Ensemble,0.2612,0.0056,23.702
+Region,Europe,Seasonal_Naive,0.3278,-0.0129,32.739
+Region,Europe,SBA_ETS,0.5092,-0.0092,46.264
+Region,Europe,Ensemble,0.2525,0.0044,25.128
+Region,India,Seasonal_Naive,0.3715,-0.0055,33.061
+Region,India,SBA_ETS,0.5098,-0.013,42.232
+Region,India,Ensemble,0.2898,0.0062,25.14
+Region,Latin America,Seasonal_Naive,0.3957,-0.0114,31.17
+Region,Latin America,SBA_ETS,0.5085,-0.0174,37.725
+Region,Latin America,Ensemble,0.3009,-0.0121,23.675
+Region,Middle East & Africa,Seasonal_Naive,0.4677,-0.0217,21.726
+Region,Middle East & Africa,SBA_ETS,0.5433,-0.0418,23.095
+Region,Middle East & Africa,Ensemble,0.3546,0.0159,16.107
+Region,North America,Seasonal_Naive,0.3286,0.0017,34.741
+Region,North America,SBA_ETS,0.4679,0.005,46.448
+Region,North America,Ensemble,0.2556,0.0134,27.777
+Intermittency_Class,Erratic,Seasonal_Naive,0.4775,0.0866,38.789
+Intermittency_Class,Erratic,SBA_ETS,0.3844,0.1202,21.443
+Intermittency_Class,Erratic,Ensemble,0.3184,0.0558,17.54
+Intermittency_Class,Intermittent,Seasonal_Naive,0.344,-0.0269,37.368
+Intermittency_Class,Intermittent,SBA_ETS,1.0234,-0.1291,69.821
+Intermittency_Class,Intermittent,Ensemble,0.2754,-0.0204,30.295
+Intermittency_Class,Lumpy,Seasonal_Naive,0.4417,0.0188,44.38
+Intermittency_Class,Lumpy,SBA_ETS,0.9732,-0.0946,55.056
+Intermittency_Class,Lumpy,Ensemble,0.3163,0.0009,27.782
+Intermittency_Class,Smooth,Seasonal_Naive,0.3617,-0.0045,27.685
+Intermittency_Class,Smooth,SBA_ETS,0.3194,0.0219,24.723
+Intermittency_Class,Smooth,Ensemble,0.2773,0.0114,21.507
+Horizon,H01,Seasonal_Naive,0.3529,-0.0801,32.672
+Horizon,H01,SBA_ETS,0.4971,-0.0396,41.874
+Horizon,H01,Ensemble,0.2612,0.0044,22.732
+Horizon,H02,Seasonal_Naive,0.3504,-0.0768,31.718
+Horizon,H02,SBA_ETS,0.4932,-0.0602,43.571
+Horizon,H02,Ensemble,0.2655,-0.0129,25.301
+Horizon,H03,Seasonal_Naive,0.3615,-0.0627,28.266
+Horizon,H03,SBA_ETS,0.5156,0.0177,38.915
+Horizon,H03,Ensemble,0.2715,-0.0116,21.354
+Horizon,H04,Seasonal_Naive,0.3599,-0.0385,32.827
+Horizon,H04,SBA_ETS,0.4805,-0.0709,41.198
+Horizon,H04,Ensemble,0.2724,-0.019,23.905
+Horizon,H05,Seasonal_Naive,0.3575,-0.0587,31.794
+Horizon,H05,SBA_ETS,0.5031,-0.0494,43.659
+Horizon,H05,Ensemble,0.2786,-0.039,26.024
+Horizon,H06,Seasonal_Naive,0.3604,-0.0174,31.284
+Horizon,H06,SBA_ETS,0.4541,-0.0688,38.956
+Horizon,H06,Ensemble,0.2698,-0.0229,23.629
+Horizon,H07,Seasonal_Naive,0.3717,0.0206,31.184
+Horizon,H07,SBA_ETS,0.5118,0.0051,39.894
+Horizon,H07,Ensemble,0.2788,-0.036,23.039
+Horizon,H08,Seasonal_Naive,0.3651,0.0218,31.335
+Horizon,H08,SBA_ETS,0.5176,0.005,41.407
+Horizon,H08,Ensemble,0.2827,-0.0331,23.812
+Horizon,H09,Seasonal_Naive,0.3782,0.0297,29.277
+Horizon,H09,SBA_ETS,0.5638,0.0882,39.562
+Horizon,H09,Ensemble,0.2911,-0.0126,23.045
+Horizon,H10,Seasonal_Naive,0.3736,0.0729,31.081
+Horizon,H10,SBA_ETS,0.4863,-0.0126,38.762
+Horizon,H10,Ensemble,0.2821,0.0248,23.747
+Horizon,H11,Seasonal_Naive,0.3739,0.0789,30.78
+Horizon,H11,SBA_ETS,0.498,0.0087,39.785
+Horizon,H11,Ensemble,0.2795,0.0361,22.293
+Horizon,H12,Seasonal_Naive,0.3585,0.0667,28.792
+Horizon,H12,SBA_ETS,0.4671,-0.0245,37.437
+Horizon,H12,Ensemble,0.2754,0.0349,22.125
+Horizon,H13,Seasonal_Naive,0.3656,-0.0094,30.975
+Horizon,H13,SBA_ETS,0.526,0.035,39.676
+Horizon,H13,Ensemble,0.2871,0.0364,22.502
+Horizon,H14,Seasonal_Naive,0.362,-0.0085,30.287
+Horizon,H14,SBA_ETS,0.5168,0.0098,41.348
+Horizon,H14,Ensemble,0.2892,0.0324,24.264
+Horizon,H15,Seasonal_Naive,0.3637,-0.0091,28.658
+Horizon,H15,SBA_ETS,0.5503,0.0757,39.171
+Horizon,H15,Ensemble,0.2877,0.0246,22.733
+Horizon,H16,Seasonal_Naive,0.3694,0.0043,37.3
+Horizon,H16,SBA_ETS,0.4852,-0.0292,43.927
+Horizon,H16,Ensemble,0.2861,0.0356,29.702
+Horizon,H17,Seasonal_Naive,0.3566,-0.0226,28.886
+Horizon,H17,SBA_ETS,0.5037,-0.0128,40.471
+Horizon,H17,Ensemble,0.2834,0.0302,22.789
+Horizon,H18,Seasonal_Naive,0.3533,-0.0146,30.952
+Horizon,H18,SBA_ETS,0.4628,-0.0651,39.259
+Horizon,H18,Ensemble,0.2777,0.0167,24.403
+Horizon,H19,Seasonal_Naive,0.355,-0.0077,31.079
+Horizon,H19,SBA_ETS,0.5145,-0.0225,42.133
+Horizon,H19,Ensemble,0.2808,0.0114,24.14
+Calibration,P10_P90_Coverage,Conformal_Ensemble,0.8127,0.0,0.0

@@ -1,0 +1,799 @@
+Date,Business_Unit,Product_Family,Region,Forecast_P50_Units,Procurement_P90_Units,Forecast_Revenue_USD,Procurement_P90_Budget_USD,Safety_Buffer_Units
+2026-11,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3530,4822,2142001.41,2916792.15,1292
+2026-11,Advanced Manufacturing,Chassis & Structural,Europe,4649,6327,2711567.92,3684840.81,1678
+2026-11,Advanced Manufacturing,Chassis & Structural,India,4179,5776,2506952.78,3447693.36,1597
+2026-11,Advanced Manufacturing,Chassis & Structural,Latin America,3849,5386,2218086.77,3109408.64,1537
+2026-11,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,2256,3456,1307192.4,1985298.09,1200
+2026-11,Advanced Manufacturing,Chassis & Structural,North America,4019,5418,2228632.27,2964015.07,1399
+2026-11,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,4569,6040,3268759.65,4377602.52,1471
+2026-11,Advanced Manufacturing,Precision Machined Parts,Europe,4814,6402,3733313.18,4983255.77,1588
+2026-11,Advanced Manufacturing,Precision Machined Parts,India,4029,5475,3092781.2399999998,4195325.57,1446
+2026-11,Advanced Manufacturing,Precision Machined Parts,Latin America,4378,6028,3679404.75,5088802.64,1650
+2026-11,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2463,3646,1850497.98,2737451.62,1183
+2026-11,Advanced Manufacturing,Precision Machined Parts,North America,4479,5818,3231887.99,4213774.38,1339
+2026-11,Electronics & Controls,Electrical Assemblies,Asia Pacific,3068,4209,4445459.65,6140114.77,1141
+2026-11,Electronics & Controls,Electrical Assemblies,Europe,2797,3909,4151002.7,5787695.07,1112
+2026-11,Electronics & Controls,Electrical Assemblies,India,2353,3331,3474868.25,4967252.29,978
+2026-11,Electronics & Controls,Electrical Assemblies,Latin America,2455,3677,3791599.82,5663809.53,1222
+2026-11,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1420,2274,1999742.98,3176957.33,854
+2026-11,Electronics & Controls,Electrical Assemblies,North America,2820,3942,4272108.87,5982064.16,1122
+2026-11,Fluid Control Group,Hydraulic Systems,Asia Pacific,3628,4830,3385596.52,4538786.77,1202
+2026-11,Fluid Control Group,Hydraulic Systems,Europe,4119,5532,3896153.73,5208564.72,1413
+2026-11,Fluid Control Group,Hydraulic Systems,India,2686,3563,2738397.96,3589589.26,877
+2026-11,Fluid Control Group,Hydraulic Systems,Latin America,2979,4059,2796304.8,3834312.9699999997,1080
+2026-11,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1883,2845,1749845.76,2652108.29,962
+2026-11,Fluid Control Group,Hydraulic Systems,North America,3594,4620,3415122.22,4415045.72,1026
+2026-11,Fluid Control Group,Thermal Management,Asia Pacific,3767,5142,3523196.65,4740985.71,1375
+2026-11,Fluid Control Group,Thermal Management,Europe,4418,5979,3909557.29,5298220.43,1561
+2026-11,Fluid Control Group,Thermal Management,India,4451,5962,4085778.61,5454036.98,1511
+2026-11,Fluid Control Group,Thermal Management,Latin America,3900,5278,3174779.51,4315845.68,1378
+2026-11,Fluid Control Group,Thermal Management,Middle East & Africa,2289,3404,2040888.94,3018345.79,1115
+2026-11,Fluid Control Group,Thermal Management,North America,4345,5752,3846935.18,5116535.03,1407
+2026-11,Power & Drive Systems,Powertrain Components,Asia Pacific,4067,5585,4651859.76,6429861.39,1518
+2026-11,Power & Drive Systems,Powertrain Components,Europe,3798,5086,4456363.24,6011590.58,1288
+2026-11,Power & Drive Systems,Powertrain Components,India,2940,4058,3499259.64,4880679.78,1118
+2026-11,Power & Drive Systems,Powertrain Components,Latin America,3243,4690,3978324.01,5728492.71,1447
+2026-11,Power & Drive Systems,Powertrain Components,Middle East & Africa,1705,2673,1927448.83,3113123.55,968
+2026-11,Power & Drive Systems,Powertrain Components,North America,4165,5607,4595969.8,6220565.3,1442
+2026-11,Safety & Compliance,Brake & Safety Systems,Asia Pacific,4811,6481,2260907.51,3051188.39,1670
+2026-11,Safety & Compliance,Brake & Safety Systems,Europe,5708,7485,2965254.96,3887460.77,1777
+2026-11,Safety & Compliance,Brake & Safety Systems,India,4755,6495,2450688.5,3345831.34,1740
+2026-11,Safety & Compliance,Brake & Safety Systems,Latin America,5352,7286,2866195.41,3913117.59,1934
+2026-11,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2832,4150,1446963.73,2102266.76,1318
+2026-11,Safety & Compliance,Brake & Safety Systems,North America,5863,7866,3005195.54,3971095.73,2003
+2026-12,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3932,5369,2283005.43,3096797.69,1437
+2026-12,Advanced Manufacturing,Chassis & Structural,Europe,4310,5882,2728980.42,3716162.65,1572
+2026-12,Advanced Manufacturing,Chassis & Structural,India,4514,6257,2818406.9899999998,3908816.27,1743
+2026-12,Advanced Manufacturing,Chassis & Structural,Latin America,3456,4867,2031458.94,2860514.63,1411
+2026-12,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,1886,2886,1177497.61,1777694.76,1000
+2026-12,Advanced Manufacturing,Chassis & Structural,North America,3762,5215,2162778.24,2959634.25,1453
+2026-12,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3945,5403,3300314.07,4495986.3,1458
+2026-12,Advanced Manufacturing,Precision Machined Parts,Europe,3955,5340,3062880.36,4180330.43,1385
+2026-12,Advanced Manufacturing,Precision Machined Parts,India,3975,5553,2974715.97,4160598.76,1578
+2026-12,Advanced Manufacturing,Precision Machined Parts,Latin America,3025,4101,2450849.05,3313452.41,1076
+2026-12,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,1891,2949,1501987.88,2330480.7,1058
+2026-12,Advanced Manufacturing,Precision Machined Parts,North America,4876,6467,3889171.7,5170234.16,1591
+2026-12,Electronics & Controls,Electrical Assemblies,Asia Pacific,2398,3430,3561412.88,5123370.12,1032
+2026-12,Electronics & Controls,Electrical Assemblies,Europe,2997,4222,4536519.97,6378065.95,1225
+2026-12,Electronics & Controls,Electrical Assemblies,India,2650,3857,3626778.28,5344114.32,1207
+2026-12,Electronics & Controls,Electrical Assemblies,Latin America,1724,2609,2835578.96,4292623.4799999995,885
+2026-12,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1231,2020,1930010.31,3161057.73,789
+2026-12,Electronics & Controls,Electrical Assemblies,North America,2814,3925,4017047.05,5623448.72,1111
+2026-12,Fluid Control Group,Hydraulic Systems,Asia Pacific,3379,4491,3290453.44,4439273.26,1112
+2026-12,Fluid Control Group,Hydraulic Systems,Europe,2721,3546,2743019.94,3588889.72,825
+2026-12,Fluid Control Group,Hydraulic Systems,India,4007,5470,3791203.35,5173765.41,1463
+2026-12,Fluid Control Group,Hydraulic Systems,Latin America,2711,3663,2686428.4,3666361.55,952
+2026-12,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1344,2044,1283421.96,1980486.77,700
+2026-12,Fluid Control Group,Hydraulic Systems,North America,3620,4671,3540703.95,4562549.9,1051
+2026-12,Fluid Control Group,Thermal Management,Asia Pacific,3057,4124,2527471.93,3400352.98,1067
+2026-12,Fluid Control Group,Thermal Management,Europe,3942,5407,3577651.87,4928122.03,1465
+2026-12,Fluid Control Group,Thermal Management,India,4017,5338,3253927.18,4386297.78,1321
+2026-12,Fluid Control Group,Thermal Management,Latin America,3210,4480,2898886.08,4038031.28,1270
+2026-12,Fluid Control Group,Thermal Management,Middle East & Africa,1870,2885,1646371.74,2532574.66,1015
+2026-12,Fluid Control Group,Thermal Management,North America,4373,5869,3930403.98,5295335.98,1496
+2026-12,Power & Drive Systems,Powertrain Components,Asia Pacific,4010,5538,4652373.67,6423930.52,1528
+2026-12,Power & Drive Systems,Powertrain Components,Europe,3454,4698,4059751.13,5560434.76,1244
+2026-12,Power & Drive Systems,Powertrain Components,India,3714,5208,3790169.65,5492398.390000001,1494
+2026-12,Power & Drive Systems,Powertrain Components,Latin America,1927,2760,2209370.85,3185873.39,833
+2026-12,Power & Drive Systems,Powertrain Components,Middle East & Africa,1748,2700,2118940.99,3260620.48,952
+2026-12,Power & Drive Systems,Powertrain Components,North America,3758,5114,3985904.5,5506478.49,1356
+2026-12,Safety & Compliance,Brake & Safety Systems,Asia Pacific,4981,6801,2458163.44,3367158.57,1820
+2026-12,Safety & Compliance,Brake & Safety Systems,Europe,4633,6186,2430015.95,3240898.79,1553
+2026-12,Safety & Compliance,Brake & Safety Systems,India,4908,6646,2414194.28,3295698.83,1738
+2026-12,Safety & Compliance,Brake & Safety Systems,Latin America,2922,4072,1534641.75,2139190.48,1150
+2026-12,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2502,3787,1312697.63,1978812.05,1285
+2026-12,Safety & Compliance,Brake & Safety Systems,North America,5451,7371,2915297.46,3929495.82,1920
+2027-01,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3812,5375,2406982.36,3387305.73,1563
+2027-01,Advanced Manufacturing,Chassis & Structural,Europe,5407,7371,3155992.9,4294510.11,1964
+2027-01,Advanced Manufacturing,Chassis & Structural,India,3477,5020,2143703.25,3087612.27,1543
+2027-01,Advanced Manufacturing,Chassis & Structural,Latin America,2895,4186,1758749.09,2512626.52,1291
+2027-01,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,1902,2876,1204055.22,1808132.71,974
+2027-01,Advanced Manufacturing,Chassis & Structural,North America,3906,5391,2259902.93,3086956.3,1485
+2027-01,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3375,4617,2602978.95,3589325.21,1242
+2027-01,Advanced Manufacturing,Precision Machined Parts,Europe,5163,7080,4239790.8,5827547.14,1917
+2027-01,Advanced Manufacturing,Precision Machined Parts,India,4033,5659,3316178.92,4662561.52,1626
+2027-01,Advanced Manufacturing,Precision Machined Parts,Latin America,3767,5347,3426708.7,4884374.66,1580
+2027-01,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2083,3043,1836505.02,2683445.3,960
+2027-01,Advanced Manufacturing,Precision Machined Parts,North America,4190,5675,3500055.48,4780213.21,1485
+2027-01,Electronics & Controls,Electrical Assemblies,Asia Pacific,3171,4415,4542268.28,6342523.76,1244
+2027-01,Electronics & Controls,Electrical Assemblies,Europe,3063,4346,4359844.98,6236589.15,1283
+2027-01,Electronics & Controls,Electrical Assemblies,India,2383,3508,3854983.81,5675159.15,1125
+2027-01,Electronics & Controls,Electrical Assemblies,Latin America,2123,3223,3225062.07,4894368.68,1100
+2027-01,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1372,2129,2010096.13,3120832.62,757
+2027-01,Electronics & Controls,Electrical Assemblies,North America,2341,3378,3860194.41,5530801.5600000005,1037
+2027-01,Fluid Control Group,Hydraulic Systems,Asia Pacific,3395,4580,3375751.78,4580205.25,1185
+2027-01,Fluid Control Group,Hydraulic Systems,Europe,3987,5361,3792402.11,5118370.7,1374
+2027-01,Fluid Control Group,Hydraulic Systems,India,2875,4020,2925546.27,4016118.87,1145
+2027-01,Fluid Control Group,Hydraulic Systems,Latin America,2326,3262,2266531.42,3196464.52,936
+2027-01,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1554,2314,1500536.43,2248487.97,760
+2027-01,Fluid Control Group,Hydraulic Systems,North America,4020,5287,4221324.25,5560972.74,1267
+2027-01,Fluid Control Group,Thermal Management,Asia Pacific,4417,6058,4381201.4399999995,5968708.32,1641
+2027-01,Fluid Control Group,Thermal Management,Europe,4553,6247,4074313.41,5623190.73,1694
+2027-01,Fluid Control Group,Thermal Management,India,3937,5338,3773848.5,5112638.88,1401
+2027-01,Fluid Control Group,Thermal Management,Latin America,3437,4818,3274090.89,4596153.88,1381
+2027-01,Fluid Control Group,Thermal Management,Middle East & Africa,1730,2605,1575935.48,2354147.4899999998,875
+2027-01,Fluid Control Group,Thermal Management,North America,4223,5816,3754009.31,5157615.78,1593
+2027-01,Power & Drive Systems,Powertrain Components,Asia Pacific,3482,4989,4240981.97,6096702.13,1507
+2027-01,Power & Drive Systems,Powertrain Components,Europe,3068,4281,3648715.28,5070590.41,1213
+2027-01,Power & Drive Systems,Powertrain Components,India,4023,5837,4620427.6899999995,6759629.91,1814
+2027-01,Power & Drive Systems,Powertrain Components,Latin America,2227,3293,2879247.64,4225604.28,1066
+2027-01,Power & Drive Systems,Powertrain Components,Middle East & Africa,1541,2335,1799019.2,2745083.48,794
+2027-01,Power & Drive Systems,Powertrain Components,North America,2908,3981,3549571.08,4901198.04,1073
+2027-01,Safety & Compliance,Brake & Safety Systems,Asia Pacific,5213,7127,2746018.55,3745404.25,1914
+2027-01,Safety & Compliance,Brake & Safety Systems,Europe,5142,6936,2853483.1,3848108.91,1794
+2027-01,Safety & Compliance,Brake & Safety Systems,India,4861,6705,2705081.84,3713415.12,1844
+2027-01,Safety & Compliance,Brake & Safety Systems,Latin America,5165,7347,2913873.58,4174348.3,2182
+2027-01,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2932,4251,1573993.54,2281338.99,1319
+2027-01,Safety & Compliance,Brake & Safety Systems,North America,5563,7741,2942682.49,4049197.37,2178
+2027-02,Advanced Manufacturing,Chassis & Structural,Asia Pacific,2785,3805,1849593.2,2513305.9699999997,1020
+2027-02,Advanced Manufacturing,Chassis & Structural,Europe,4600,6416,2918968.57,4071793.4,1816
+2027-02,Advanced Manufacturing,Chassis & Structural,India,4465,6271,2921370.77,4076592.68,1806
+2027-02,Advanced Manufacturing,Chassis & Structural,Latin America,3632,5263,2169851.61,3132684.98,1631
+2027-02,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,1944,2984,1205085.32,1808654.46,1040
+2027-02,Advanced Manufacturing,Chassis & Structural,North America,3960,5503,2367861.56,3254507.23,1543
+2027-02,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3924,5253,3174989.26,4330980.46,1329
+2027-02,Advanced Manufacturing,Precision Machined Parts,Europe,3999,5470,3368338.91,4649725.37,1471
+2027-02,Advanced Manufacturing,Precision Machined Parts,India,4223,5921,3467912.71,4853569.14,1698
+2027-02,Advanced Manufacturing,Precision Machined Parts,Latin America,3820,5510,2980065.67,4310231.39,1690
+2027-02,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,1984,2968,1505380.4,2235016.91,984
+2027-02,Advanced Manufacturing,Precision Machined Parts,North America,4760,6377,3534467.65,4758173.81,1617
+2027-02,Electronics & Controls,Electrical Assemblies,Asia Pacific,1678,2325,2836435.26,3929319.44,647
+2027-02,Electronics & Controls,Electrical Assemblies,Europe,3074,4433,4951468.03,7120998.29,1359
+2027-02,Electronics & Controls,Electrical Assemblies,India,2815,4154,4139957.82,6161358.12,1339
+2027-02,Electronics & Controls,Electrical Assemblies,Latin America,2166,3342,3521657.69,5453698.45,1176
+2027-02,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1207,1845,1879894.44,2812612.9699999997,638
+2027-02,Electronics & Controls,Electrical Assemblies,North America,2539,3665,3835052.61,5558699.95,1126
+2027-02,Fluid Control Group,Hydraulic Systems,Asia Pacific,2360,3058,2385322.88,3134877.16,698
+2027-02,Fluid Control Group,Hydraulic Systems,Europe,3140,4308,3257992.08,4427607.8,1168
+2027-02,Fluid Control Group,Hydraulic Systems,India,3304,4597,3269479.12,4548356.74,1293
+2027-02,Fluid Control Group,Hydraulic Systems,Latin America,2678,3785,2713114.0100000002,3857068.43,1107
+2027-02,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1378,1989,1348419.72,1915910.2,611
+2027-02,Fluid Control Group,Hydraulic Systems,North America,3090,4113,3133566.09,4139176.87,1023
+2027-02,Fluid Control Group,Thermal Management,Asia Pacific,3128,4168,3026582.71,4023679.4699999997,1040
+2027-02,Fluid Control Group,Thermal Management,Europe,4021,5502,3727696.93,5103316.86,1481
+2027-02,Fluid Control Group,Thermal Management,India,3940,5430,3495171.17,4819022.66,1490
+2027-02,Fluid Control Group,Thermal Management,Latin America,4006,5578,3551874.29,4950145.61,1572
+2027-02,Fluid Control Group,Thermal Management,Middle East & Africa,2040,3071,1911773.7,2854323.16,1031
+2027-02,Fluid Control Group,Thermal Management,North America,4327,5789,4051318.08,5434340.23,1462
+2027-02,Power & Drive Systems,Powertrain Components,Asia Pacific,2439,3359,3032716.49,4168058.15,920
+2027-02,Power & Drive Systems,Powertrain Components,Europe,3794,5297,4936327.91,6945094.2700000005,1503
+2027-02,Power & Drive Systems,Powertrain Components,India,3030,4360,3382073.5300000003,4939588.93,1330
+2027-02,Power & Drive Systems,Powertrain Components,Latin America,2862,4267,3709946.37,5490320.71,1405
+2027-02,Power & Drive Systems,Powertrain Components,Middle East & Africa,1586,2457,1983556.78,3022717.32,871
+2027-02,Power & Drive Systems,Powertrain Components,North America,4279,6004,4829899.0200000005,6841073.09,1725
+2027-02,Safety & Compliance,Brake & Safety Systems,Asia Pacific,3471,4710,1854720.31,2531106.51,1239
+2027-02,Safety & Compliance,Brake & Safety Systems,Europe,5444,7375,2909582.84,3949964.04,1931
+2027-02,Safety & Compliance,Brake & Safety Systems,India,5108,7119,2734110.22,3816745.69,2011
+2027-02,Safety & Compliance,Brake & Safety Systems,Latin America,4256,6088,2346099.1,3374823.01,1832
+2027-02,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2186,3244,1171559.79,1724119.78,1058
+2027-02,Safety & Compliance,Brake & Safety Systems,North America,5397,7312,3024376.73,4089560.32,1915
+2027-03,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3845,5268,2321235.8,3171914.71,1423
+2027-03,Advanced Manufacturing,Chassis & Structural,Europe,4454,6042,2816693.09,3822500.59,1588
+2027-03,Advanced Manufacturing,Chassis & Structural,India,4741,6659,2931319.19,4120714.32,1918
+2027-03,Advanced Manufacturing,Chassis & Structural,Latin America,4143,5856,2570945.77,3652880.23,1713
+2027-03,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,1974,3085,1236014.18,1914474.02,1111
+2027-03,Advanced Manufacturing,Chassis & Structural,North America,4046,5524,2360921.08,3182506.68,1478
+2027-03,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3921,5367,3119421.17,4280814.76,1446
+2027-03,Advanced Manufacturing,Precision Machined Parts,Europe,4885,6648,3805679.42,5211930.53,1763
+2027-03,Advanced Manufacturing,Precision Machined Parts,India,4226,5941,3267664.28,4594529.66,1715
+2027-03,Advanced Manufacturing,Precision Machined Parts,Latin America,4390,6144,3898784.75,5450988.17,1754
+2027-03,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2009,3111,1628218.91,2509605.0,1102
+2027-03,Advanced Manufacturing,Precision Machined Parts,North America,4732,6285,3997157.64,5301848.58,1553
+2027-03,Electronics & Controls,Electrical Assemblies,Asia Pacific,3227,4523,4630685.75,6571858.79,1296
+2027-03,Electronics & Controls,Electrical Assemblies,Europe,2849,4044,4360132.99,6198203.98,1195
+2027-03,Electronics & Controls,Electrical Assemblies,India,2578,3824,3840289.17,5735783.7,1246
+2027-03,Electronics & Controls,Electrical Assemblies,Latin America,2480,3760,3894666.16,5909479.73,1280
+2027-03,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1215,2075,1855574.63,3178984.03,860
+2027-03,Electronics & Controls,Electrical Assemblies,North America,3129,4367,4913976.36,6888251.08,1238
+2027-03,Fluid Control Group,Hydraulic Systems,Asia Pacific,3849,5325,3758876.7600000002,5239243.86,1476
+2027-03,Fluid Control Group,Hydraulic Systems,Europe,3797,5133,3806079.4899999998,5168474.77,1336
+2027-03,Fluid Control Group,Hydraulic Systems,India,3920,5437,4134780.11,5691763.58,1517
+2027-03,Fluid Control Group,Hydraulic Systems,Latin America,3187,4449,3140319.2600000002,4418467.3100000005,1262
+2027-03,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1526,2383,1507756.35,2357780.18,857
+2027-03,Fluid Control Group,Hydraulic Systems,North America,4109,5392,4108882.35,5386384.94,1283
+2027-03,Fluid Control Group,Thermal Management,Asia Pacific,3901,5324,3503383.07,4751985.19,1423
+2027-03,Fluid Control Group,Thermal Management,Europe,4990,6786,4744625.08,6460213.87,1796
+2027-03,Fluid Control Group,Thermal Management,India,5299,7131,4834642.82,6548694.49,1832
+2027-03,Fluid Control Group,Thermal Management,Latin America,3620,4961,3228173.21,4432055.7,1341
+2027-03,Fluid Control Group,Thermal Management,Middle East & Africa,1921,3002,1767024.76,2754042.79,1081
+2027-03,Fluid Control Group,Thermal Management,North America,4845,6393,4498411.83,5959322.63,1548
+2027-03,Power & Drive Systems,Powertrain Components,Asia Pacific,4489,6210,5377864.23,7558090.38,1721
+2027-03,Power & Drive Systems,Powertrain Components,Europe,3511,4794,3956763.75,5493417.32,1283
+2027-03,Power & Drive Systems,Powertrain Components,India,4407,6283,5128943.73,7464226.77,1876
+2027-03,Power & Drive Systems,Powertrain Components,Latin America,2698,4101,3266439.81,4960144.28,1403
+2027-03,Power & Drive Systems,Powertrain Components,Middle East & Africa,1586,2636,1882908.37,3146791.61,1050
+2027-03,Power & Drive Systems,Powertrain Components,North America,3567,4867,4033136.65,5600465.47,1300
+2027-03,Safety & Compliance,Brake & Safety Systems,Asia Pacific,5626,7463,2710538.3,3621046.06,1837
+2027-03,Safety & Compliance,Brake & Safety Systems,Europe,5196,6791,2901479.27,3797804.55,1595
+2027-03,Safety & Compliance,Brake & Safety Systems,India,5564,7489,2889111.38,3896506.68,1925
+2027-03,Safety & Compliance,Brake & Safety Systems,Latin America,4845,6715,2720562.23,3782291.13,1870
+2027-03,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2916,4478,1576819.9,2414480.68,1562
+2027-03,Safety & Compliance,Brake & Safety Systems,North America,6298,8409,3349925.48,4429558.87,2111
+2027-04,Advanced Manufacturing,Chassis & Structural,Asia Pacific,4689,6591,2902480.41,4050660.88,1902
+2027-04,Advanced Manufacturing,Chassis & Structural,Europe,6013,8072,3636370.69,4880088.25,2059
+2027-04,Advanced Manufacturing,Chassis & Structural,India,3989,5630,2563227.38,3591248.77,1641
+2027-04,Advanced Manufacturing,Chassis & Structural,Latin America,3921,5572,2380914.58,3399252.05,1651
+2027-04,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,2014,3149,1280604.16,1975814.81,1135
+2027-04,Advanced Manufacturing,Chassis & Structural,North America,4223,5733,2518716.19,3400643.31,1510
+2027-04,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,4157,5803,3547010.45,4967142.33,1646
+2027-04,Advanced Manufacturing,Precision Machined Parts,Europe,4902,6758,4204022.34,5849433.26,1856
+2027-04,Advanced Manufacturing,Precision Machined Parts,India,4353,6107,3589715.55,5078678.13,1754
+2027-04,Advanced Manufacturing,Precision Machined Parts,Latin America,4374,6246,3480174.81,4983411.41,1872
+2027-04,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2041,3152,1749567.7,2710486.73,1111
+2027-04,Advanced Manufacturing,Precision Machined Parts,North America,4945,6625,4046199.51,5469919.63,1680
+2027-04,Electronics & Controls,Electrical Assemblies,Asia Pacific,2885,4178,4459444.6,6403068.8,1293
+2027-04,Electronics & Controls,Electrical Assemblies,Europe,3706,5303,5517386.11,7964946.13,1597
+2027-04,Electronics & Controls,Electrical Assemblies,India,2951,4379,4640807.14,6965288.51,1428
+2027-04,Electronics & Controls,Electrical Assemblies,Latin America,2406,3749,3761827.76,5905737.54,1343
+2027-04,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1511,2521,2284447.31,3836221.98,1010
+2027-04,Electronics & Controls,Electrical Assemblies,North America,2451,3514,3804407.48,5481780.39,1063
+2027-04,Fluid Control Group,Hydraulic Systems,Asia Pacific,3695,5075,3860734.1,5338262.45,1380
+2027-04,Fluid Control Group,Hydraulic Systems,Europe,3395,4638,3377600.39,4615745.73,1243
+2027-04,Fluid Control Group,Hydraulic Systems,India,3360,4763,3271574.03,4633093.13,1403
+2027-04,Fluid Control Group,Hydraulic Systems,Latin America,2806,4065,2813107.22,4122896.82,1259
+2027-04,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1378,2141,1364188.68,2126894.59,763
+2027-04,Fluid Control Group,Hydraulic Systems,North America,3915,5212,4183837.9699999997,5512150.2700000005,1297
+2027-04,Fluid Control Group,Thermal Management,Asia Pacific,5068,6794,4976415.38,6629879.34,1726
+2027-04,Fluid Control Group,Thermal Management,Europe,4710,6205,4220693.73,5575656.87,1495
+2027-04,Fluid Control Group,Thermal Management,India,3603,4774,3199338.4899999998,4262735.94,1171
+2027-04,Fluid Control Group,Thermal Management,Latin America,4648,6449,4516887.95,6269655.18,1801
+2027-04,Fluid Control Group,Thermal Management,Middle East & Africa,1823,2775,1669129.58,2524685.68,952
+2027-04,Fluid Control Group,Thermal Management,North America,4934,6515,4452645.13,5887106.7700000005,1581
+2027-04,Power & Drive Systems,Powertrain Components,Asia Pacific,3752,5343,4538634.15,6554044.1,1591
+2027-04,Power & Drive Systems,Powertrain Components,Europe,3611,5059,4552234.08,6424393.23,1448
+2027-04,Power & Drive Systems,Powertrain Components,India,3898,5754,4101797.15,6097718.63,1856
+2027-04,Power & Drive Systems,Powertrain Components,Latin America,2865,4280,3694393.77,5519260.36,1415
+2027-04,Power & Drive Systems,Powertrain Components,Middle East & Africa,1762,2812,2209904.54,3507104.59,1050
+2027-04,Power & Drive Systems,Powertrain Components,North America,3525,4816,4169545.1,5738098.65,1291
+2027-04,Safety & Compliance,Brake & Safety Systems,Asia Pacific,6428,8519,3546154.98,4727069.05,2091
+2027-04,Safety & Compliance,Brake & Safety Systems,Europe,5729,7471,3137964.84,4096069.94,1742
+2027-04,Safety & Compliance,Brake & Safety Systems,India,5515,7375,3068466.25,4091668.33,1860
+2027-04,Safety & Compliance,Brake & Safety Systems,Latin America,5412,7429,3032145.45,4178028.21,2017
+2027-04,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2855,4201,1526156.1199999999,2248686.45,1346
+2027-04,Safety & Compliance,Brake & Safety Systems,North America,5878,7696,3250846.55,4251106.11,1818
+2027-05,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3552,4915,2250166.59,3101413.19,1363
+2027-05,Advanced Manufacturing,Chassis & Structural,Europe,4830,6700,2935690.0,4068714.28,1870
+2027-05,Advanced Manufacturing,Chassis & Structural,India,4358,6180,2708562.5,3825414.37,1822
+2027-05,Advanced Manufacturing,Chassis & Structural,Latin America,4014,5652,2418335.67,3407587.12,1638
+2027-05,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,2257,3496,1365552.83,2100932.16,1239
+2027-05,Advanced Manufacturing,Chassis & Structural,North America,4157,5648,2413233.77,3239234.71,1491
+2027-05,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,4485,6122,3357831.34,4647675.19,1637
+2027-05,Advanced Manufacturing,Precision Machined Parts,Europe,4858,6671,3944422.9,5447016.26,1813
+2027-05,Advanced Manufacturing,Precision Machined Parts,India,4318,6058,3477505.07,4867509.49,1740
+2027-05,Advanced Manufacturing,Precision Machined Parts,Latin America,4423,6316,3877921.46,5566959.16,1893
+2027-05,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2421,3717,1897348.86,2916260.11,1296
+2027-05,Advanced Manufacturing,Precision Machined Parts,North America,4443,6063,3343993.02,4570136.81,1620
+2027-05,Electronics & Controls,Electrical Assemblies,Asia Pacific,2988,4305,4521222.59,6563425.81,1317
+2027-05,Electronics & Controls,Electrical Assemblies,Europe,2752,4053,4278712.55,6302250.03,1301
+2027-05,Electronics & Controls,Electrical Assemblies,India,2571,3940,3823651.83,5882886.58,1369
+2027-05,Electronics & Controls,Electrical Assemblies,Latin America,2423,3775,3911638.53,6087460.24,1352
+2027-05,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1392,2360,2031814.35,3424368.98,968
+2027-05,Electronics & Controls,Electrical Assemblies,North America,2784,4089,4412819.23,6491954.8100000005,1305
+2027-05,Fluid Control Group,Hydraulic Systems,Asia Pacific,3522,4985,3434982.98,4894658.4799999995,1463
+2027-05,Fluid Control Group,Hydraulic Systems,Europe,4025,5692,3997334.06,5679365.78,1667
+2027-05,Fluid Control Group,Hydraulic Systems,India,3088,4493,3233668.52,4661214.64,1405
+2027-05,Fluid Control Group,Hydraulic Systems,Latin America,2856,4110,2810824.75,4054060.55,1254
+2027-05,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1792,2863,1734473.15,2780139.06,1071
+2027-05,Fluid Control Group,Hydraulic Systems,North America,3456,4755,3423990.7600000002,4709238.59,1299
+2027-05,Fluid Control Group,Thermal Management,Asia Pacific,4019,5531,3924016.3,5314043.03,1512
+2027-05,Fluid Control Group,Thermal Management,Europe,4896,6726,4523340.99,6228255.13,1830
+2027-05,Fluid Control Group,Thermal Management,India,4835,6639,4548090.17,6223241.59,1804
+2027-05,Fluid Control Group,Thermal Management,Latin America,4277,5957,3646954.96,5114806.57,1680
+2027-05,Fluid Control Group,Thermal Management,Middle East & Africa,2386,3679,2228447.55,3417066.55,1293
+2027-05,Fluid Control Group,Thermal Management,North America,4693,6303,4343640.25,5862165.38,1610
+2027-05,Power & Drive Systems,Powertrain Components,Asia Pacific,3919,5593,4707427.5,6743498.31,1674
+2027-05,Power & Drive Systems,Powertrain Components,Europe,3752,5259,4569215.24,6509499.03,1507
+2027-05,Power & Drive Systems,Powertrain Components,India,3234,4799,3938855.31,5959273.74,1565
+2027-05,Power & Drive Systems,Powertrain Components,Latin America,3156,4781,4035564.47,6091683.55,1625
+2027-05,Power & Drive Systems,Powertrain Components,Middle East & Africa,1663,2721,1955427.05,3238205.36,1058
+2027-05,Power & Drive Systems,Powertrain Components,North America,4151,5752,4770564.95,6700003.31,1601
+2027-05,Safety & Compliance,Brake & Safety Systems,Asia Pacific,5243,6756,2571472.62,3327933.3,1513
+2027-05,Safety & Compliance,Brake & Safety Systems,Europe,6197,7736,3363261.26,4196019.73,1539
+2027-05,Safety & Compliance,Brake & Safety Systems,India,5576,7268,2953215.88,3858570.42,1692
+2027-05,Safety & Compliance,Brake & Safety Systems,Latin America,5903,7588,3319358.14,4268803.45,1685
+2027-05,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2983,4250,1590906.6,2247678.94,1267
+2027-05,Safety & Compliance,Brake & Safety Systems,North America,6533,8257,3477725.44,4373348.75,1724
+2027-06,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3781,5329,2299198.75,3217058.34,1548
+2027-06,Advanced Manufacturing,Chassis & Structural,Europe,4364,6079,2882682.81,4002339.55,1715
+2027-06,Advanced Manufacturing,Chassis & Structural,India,4285,6046,2803431.6,3933074.21,1761
+2027-06,Advanced Manufacturing,Chassis & Structural,Latin America,4061,5804,2487683.62,3555556.51,1743
+2027-06,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,1935,2990,1251771.26,1911191.16,1055
+2027-06,Advanced Manufacturing,Chassis & Structural,North America,3980,5518,2386963.27,3280107.43,1538
+2027-06,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,4012,5706,3521838.76,5022458.81,1694
+2027-06,Advanced Manufacturing,Precision Machined Parts,Europe,3877,5449,3139972.69,4451454.07,1572
+2027-06,Advanced Manufacturing,Precision Machined Parts,India,3510,5130,2739311.82,4036859.2,1620
+2027-06,Advanced Manufacturing,Precision Machined Parts,Latin America,3744,5457,2965828.55,4325342.24,1713
+2027-06,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,1832,2852,1434157.31,2228803.43,1020
+2027-06,Advanced Manufacturing,Precision Machined Parts,North America,4979,6783,4135343.46,5656503.86,1804
+2027-06,Electronics & Controls,Electrical Assemblies,Asia Pacific,2132,3269,3382475.23,5167778.53,1137
+2027-06,Electronics & Controls,Electrical Assemblies,Europe,3002,4465,4769946.33,7088332.42,1463
+2027-06,Electronics & Controls,Electrical Assemblies,India,2220,3452,3276664.08,5109632.82,1232
+2027-06,Electronics & Controls,Electrical Assemblies,Latin America,2134,3452,3382735.86,5488657.14,1318
+2027-06,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1135,1946,1826286.4000000001,3130270.9699999997,811
+2027-06,Electronics & Controls,Electrical Assemblies,North America,2880,4194,4290966.7,6300430.05,1314
+2027-06,Fluid Control Group,Hydraulic Systems,Asia Pacific,2997,4336,3007917.48,4404402.1,1339
+2027-06,Fluid Control Group,Hydraulic Systems,Europe,2602,3791,2739446.9899999998,3993541.21,1189
+2027-06,Fluid Control Group,Hydraulic Systems,India,3432,5044,3451160.3,5064536.93,1612
+2027-06,Fluid Control Group,Hydraulic Systems,Latin America,2783,4108,2758241.08,4086602.46,1325
+2027-06,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1287,2055,1281066.42,2037166.55,768
+2027-06,Fluid Control Group,Hydraulic Systems,North America,3497,4845,3566963.39,4927123.35,1348
+2027-06,Fluid Control Group,Thermal Management,Asia Pacific,3643,5051,3261974.42,4505601.01,1408
+2027-06,Fluid Control Group,Thermal Management,Europe,4412,6091,4232567.03,5814836.86,1679
+2027-06,Fluid Control Group,Thermal Management,India,3899,5314,3363990.94,4638885.1,1415
+2027-06,Fluid Control Group,Thermal Management,Latin America,3550,5006,3236114.12,4540065.1,1456
+2027-06,Fluid Control Group,Thermal Management,Middle East & Africa,1809,2812,1611188.73,2486682.38,1003
+2027-06,Fluid Control Group,Thermal Management,North America,4907,6553,4601554.49,6157631.24,1646
+2027-06,Power & Drive Systems,Powertrain Components,Asia Pacific,3901,5609,4686117.43,6749803.0,1708
+2027-06,Power & Drive Systems,Powertrain Components,Europe,3453,4929,4219760.69,6038224.65,1476
+2027-06,Power & Drive Systems,Powertrain Components,India,3666,5401,3888510.01,5845049.62,1735
+2027-06,Power & Drive Systems,Powertrain Components,Latin America,2304,3589,2808938.13,4422574.71,1285
+2027-06,Power & Drive Systems,Powertrain Components,Middle East & Africa,1685,2726,2110103.04,3424917.64,1041
+2027-06,Power & Drive Systems,Powertrain Components,North America,3738,5238,4004629.56,5694064.39,1500
+2027-06,Safety & Compliance,Brake & Safety Systems,Asia Pacific,5210,6774,2701848.4899999998,3525941.86,1564
+2027-06,Safety & Compliance,Brake & Safety Systems,Europe,5147,6569,2833210.76,3614413.38,1422
+2027-06,Safety & Compliance,Brake & Safety Systems,India,4939,6484,2525259.15,3321900.41,1545
+2027-06,Safety & Compliance,Brake & Safety Systems,Latin America,4118,5602,2308109.44,3150129.17,1484
+2027-06,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2820,4044,1529736.18,2183357.88,1224
+2027-06,Safety & Compliance,Brake & Safety Systems,North America,6155,7752,3435058.54,4319515.61,1597
+2027-07,Advanced Manufacturing,Chassis & Structural,Asia Pacific,4485,6256,2766458.52,3840192.72,1771
+2027-07,Advanced Manufacturing,Chassis & Structural,Europe,5806,7838,3393061.91,4570304.46,2032
+2027-07,Advanced Manufacturing,Chassis & Structural,India,3832,5497,2309991.68,3316620.7,1665
+2027-07,Advanced Manufacturing,Chassis & Structural,Latin America,3819,5471,2350416.2199999997,3370007.82,1652
+2027-07,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,2126,3323,1315619.79,2044721.54,1197
+2027-07,Advanced Manufacturing,Chassis & Structural,North America,2430,3134,1476306.29,1890542.0,704
+2027-07,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3608,5092,2787458.87,3948371.77,1484
+2027-07,Advanced Manufacturing,Precision Machined Parts,Europe,5435,7460,4468937.2,6182111.63,2025
+2027-07,Advanced Manufacturing,Precision Machined Parts,India,4187,6041,3406059.19,4969710.66,1854
+2027-07,Advanced Manufacturing,Precision Machined Parts,Latin America,4538,6569,4003834.92,5842239.05,2031
+2027-07,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2076,3229,1821100.09,2831877.18,1153
+2027-07,Advanced Manufacturing,Precision Machined Parts,North America,2273,3029,2194461.57,2956945.77,756
+2027-07,Electronics & Controls,Electrical Assemblies,Asia Pacific,3546,5089,5147641.59,7396337.88,1543
+2027-07,Electronics & Controls,Electrical Assemblies,Europe,3262,4746,4634967.9,6810234.31,1484
+2027-07,Electronics & Controls,Electrical Assemblies,India,2664,4094,4266744.19,6567900.9799999995,1430
+2027-07,Electronics & Controls,Electrical Assemblies,Latin America,2461,3891,3853596.39,6054645.2,1430
+2027-07,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1476,2488,2135177.14,3612079.46,1012
+2027-07,Electronics & Controls,Electrical Assemblies,North America,1372,1956,2397877.4,3369929.58,584
+2027-07,Fluid Control Group,Hydraulic Systems,Asia Pacific,3840,5476,3898839.88,5562791.66,1636
+2027-07,Fluid Control Group,Hydraulic Systems,Europe,4118,5700,3944876.37,5472896.66,1582
+2027-07,Fluid Control Group,Hydraulic Systems,India,3049,4481,3152675.96,4590303.37,1432
+2027-07,Fluid Control Group,Hydraulic Systems,Latin America,2784,4121,2709895.13,4053931.49,1337
+2027-07,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1567,2500,1521382.62,2448965.47,933
+2027-07,Fluid Control Group,Hydraulic Systems,North America,2518,3238,2854145.56,3677893.22,720
+2027-07,Fluid Control Group,Thermal Management,Asia Pacific,5079,7017,4999651.84,6850649.75,1938
+2027-07,Fluid Control Group,Thermal Management,Europe,5159,7053,4644655.24,6382971.43,1894
+2027-07,Fluid Control Group,Thermal Management,India,4320,5979,4100897.59,5691692.78,1659
+2027-07,Fluid Control Group,Thermal Management,Latin America,4389,6253,4151134.06,5927828.95,1864
+2027-07,Fluid Control Group,Thermal Management,Middle East & Africa,1806,2890,1635778.19,2613041.64,1084
+2027-07,Fluid Control Group,Thermal Management,North America,2347,3032,2028748.18,2591719.91,685
+2027-07,Power & Drive Systems,Powertrain Components,Asia Pacific,3836,5492,4665507.71,6695508.24,1656
+2027-07,Power & Drive Systems,Powertrain Components,Europe,3261,4584,3748866.57,5287525.13,1323
+2027-07,Power & Drive Systems,Powertrain Components,India,3980,6026,4353144.4,6642758.54,2046
+2027-07,Power & Drive Systems,Powertrain Components,Latin America,2960,4542,3758206.26,5755426.93,1582
+2027-07,Power & Drive Systems,Powertrain Components,Middle East & Africa,1591,2591,1899801.9,3122854.46,1000
+2027-07,Power & Drive Systems,Powertrain Components,North America,1388,1828,1691101.1,2231401.36,440
+2027-07,Safety & Compliance,Brake & Safety Systems,Asia Pacific,6814,8621,3562584.5300000003,4517152.65,1807
+2027-07,Safety & Compliance,Brake & Safety Systems,Europe,5956,7436,3306659.02,4113699.63,1480
+2027-07,Safety & Compliance,Brake & Safety Systems,India,5713,7469,3153313.98,4117926.21,1756
+2027-07,Safety & Compliance,Brake & Safety Systems,Latin America,6388,8400,3614610.57,4764858.82,2012
+2027-07,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,3365,4749,1794976.36,2524956.86,1384
+2027-07,Safety & Compliance,Brake & Safety Systems,North America,3601,4600,1920259.51,2426997.32,999
+2027-08,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3883,5412,2433883.71,3375827.68,1529
+2027-08,Advanced Manufacturing,Chassis & Structural,Europe,2360,3270,1552814.36,2112224.04,910
+2027-08,Advanced Manufacturing,Chassis & Structural,India,4309,6123,2829145.33,3986928.34,1814
+2027-08,Advanced Manufacturing,Chassis & Structural,Latin America,4032,5643,2407757.0,3372606.81,1611
+2027-08,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,2040,3196,1274864.94,1969579.8,1156
+2027-08,Advanced Manufacturing,Chassis & Structural,North America,3863,5286,2300999.2,3125036.68,1423
+2027-08,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,4802,6568,3926148.34,5438749.32,1766
+2027-08,Advanced Manufacturing,Precision Machined Parts,Europe,1521,2026,1434147.17,1933877.49,505
+2027-08,Advanced Manufacturing,Precision Machined Parts,India,4009,5738,3285212.34,4703939.92,1729
+2027-08,Advanced Manufacturing,Precision Machined Parts,Latin America,4026,5849,3139528.19,4591309.99,1823
+2027-08,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2076,3256,1582448.54,2502075.21,1180
+2027-08,Advanced Manufacturing,Precision Machined Parts,North America,4690,6322,3327525.33,4545336.63,1632
+2027-08,Electronics & Controls,Electrical Assemblies,Asia Pacific,2277,3384,3722100.83,5513606.77,1107
+2027-08,Electronics & Controls,Electrical Assemblies,Europe,1628,2287,2738475.15,3850611.67,659
+2027-08,Electronics & Controls,Electrical Assemblies,India,2675,4030,3936011.72,5959480.84,1355
+2027-08,Electronics & Controls,Electrical Assemblies,Latin America,2225,3507,3603597.21,5684403.07,1282
+2027-08,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1292,2205,1997640.28,3414419.2199999997,913
+2027-08,Electronics & Controls,Electrical Assemblies,North America,2550,3696,3924088.81,5717881.63,1146
+2027-08,Fluid Control Group,Hydraulic Systems,Asia Pacific,3225,4530,3276027.34,4658864.4,1305
+2027-08,Fluid Control Group,Hydraulic Systems,Europe,1614,2153,1597370.08,2127417.89,539
+2027-08,Fluid Control Group,Hydraulic Systems,India,3046,4383,3008878.66,4335101.82,1337
+2027-08,Fluid Control Group,Hydraulic Systems,Latin America,2774,4069,2804380.04,4137923.11,1295
+2027-08,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1428,2284,1395909.53,2244666.44,856
+2027-08,Fluid Control Group,Hydraulic Systems,North America,2877,3902,2899823.2600000002,3900088.81,1025
+2027-08,Fluid Control Group,Thermal Management,Asia Pacific,3746,5343,3651137.86,5141174.51,1597
+2027-08,Fluid Control Group,Thermal Management,Europe,1761,2381,1732245.39,2321161.54,620
+2027-08,Fluid Control Group,Thermal Management,India,3718,5339,3293392.41,4736101.25,1621
+2027-08,Fluid Control Group,Thermal Management,Latin America,4351,6178,3847667.4,5473009.26,1827
+2027-08,Fluid Control Group,Thermal Management,Middle East & Africa,2149,3369,2019311.52,3131927.51,1220
+2027-08,Fluid Control Group,Thermal Management,North America,4195,5760,3892783.59,5360818.59,1565
+2027-08,Power & Drive Systems,Powertrain Components,Asia Pacific,3727,5337,4443474.37,6423353.03,1610
+2027-08,Power & Drive Systems,Powertrain Components,Europe,1804,2407,2623212.07,3534177.62,603
+2027-08,Power & Drive Systems,Powertrain Components,India,2897,4265,3226128.73,4848903.87,1368
+2027-08,Power & Drive Systems,Powertrain Components,Latin America,3035,4545,3929381.46,5904433.72,1510
+2027-08,Power & Drive Systems,Powertrain Components,Middle East & Africa,1706,2744,2113752.52,3411180.59,1038
+2027-08,Power & Drive Systems,Powertrain Components,North America,4155,5735,4605745.24,6410755.62,1580
+2027-08,Safety & Compliance,Brake & Safety Systems,Asia Pacific,5181,6795,2735429.54,3592770.6,1614
+2027-08,Safety & Compliance,Brake & Safety Systems,Europe,3369,4317,1856807.41,2373989.89,948
+2027-08,Safety & Compliance,Brake & Safety Systems,India,5198,6992,2776498.63,3751471.92,1794
+2027-08,Safety & Compliance,Brake & Safety Systems,Latin America,5058,6641,2791051.7,3680241.61,1583
+2027-08,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2468,3622,1325532.01,1940262.49,1154
+2027-08,Safety & Compliance,Brake & Safety Systems,North America,5465,6843,2996820.08,3749047.82,1378
+2027-09,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3870,5256,2338749.02,3169275.11,1386
+2027-09,Advanced Manufacturing,Chassis & Structural,Europe,4734,6322,2971330.0,3970553.28,1588
+2027-09,Advanced Manufacturing,Chassis & Structural,India,4748,6543,2934839.12,4037063.9,1795
+2027-09,Advanced Manufacturing,Chassis & Structural,Latin America,4277,5925,2646965.27,3676124.15,1648
+2027-09,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,2205,3365,1371019.32,2073476.09,1160
+2027-09,Advanced Manufacturing,Chassis & Structural,North America,4124,5537,2399765.47,3188062.26,1413
+2027-09,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3754,5198,2952747.6,4083446.55,1444
+2027-09,Advanced Manufacturing,Precision Machined Parts,Europe,4908,6510,3762020.96,5002627.18,1602
+2027-09,Advanced Manufacturing,Precision Machined Parts,India,4069,5756,3145441.71,4468174.03,1687
+2027-09,Advanced Manufacturing,Precision Machined Parts,Latin America,4264,6037,3788745.2600000002,5381635.84,1773
+2027-09,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2190,3372,1767606.42,2707736.85,1182
+2027-09,Advanced Manufacturing,Precision Machined Parts,North America,4533,6073,3838029.0100000002,5158629.68,1540
+2027-09,Electronics & Controls,Electrical Assemblies,Asia Pacific,3124,4413,4511986.89,6397228.21,1289
+2027-09,Electronics & Controls,Electrical Assemblies,Europe,2844,4078,4343166.61,6254022.71,1234
+2027-09,Electronics & Controls,Electrical Assemblies,India,2448,3717,3665803.7,5617800.57,1269
+2027-09,Electronics & Controls,Electrical Assemblies,Latin America,2449,3784,3852519.72,5955256.53,1335
+2027-09,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1336,2242,2059135.42,3467262.4299999997,906
+2027-09,Electronics & Controls,Electrical Assemblies,North America,3057,4267,4799092.11,6728202.57,1210
+2027-09,Fluid Control Group,Hydraulic Systems,Asia Pacific,3637,5051,3556960.69,4969026.3,1414
+2027-09,Fluid Control Group,Hydraulic Systems,Europe,3664,4981,3675064.09,5019569.57,1317
+2027-09,Fluid Control Group,Hydraulic Systems,India,3726,5215,3928969.11,5473237.6,1489
+2027-09,Fluid Control Group,Hydraulic Systems,Latin America,3136,4477,3088326.25,4454825.41,1341
+2027-09,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1649,2553,1627188.52,2512025.98,904
+2027-09,Fluid Control Group,Hydraulic Systems,North America,3949,5295,3941516.49,5311518.71,1346
+2027-09,Fluid Control Group,Thermal Management,Asia Pacific,3745,5268,3343766.23,4689572.85,1523
+2027-09,Fluid Control Group,Thermal Management,Europe,4976,6930,4707085.8100000005,6552721.13,1954
+2027-09,Fluid Control Group,Thermal Management,India,5064,6982,4632556.03,6410724.81,1918
+2027-09,Fluid Control Group,Thermal Management,Latin America,3494,4969,3112230.87,4426683.39,1475
+2027-09,Fluid Control Group,Thermal Management,Middle East & Africa,2040,3268,1878155.93,2986645.74,1228
+2027-09,Fluid Control Group,Thermal Management,North America,4569,6220,4237630.06,5764876.41,1651
+2027-09,Power & Drive Systems,Powertrain Components,Asia Pacific,4385,6027,5301535.49,7313193.58,1642
+2027-09,Power & Drive Systems,Powertrain Components,Europe,3629,4896,4032906.15,5529589.4,1267
+2027-09,Power & Drive Systems,Powertrain Components,India,4113,5925,4603553.95,6760581.5600000005,1812
+2027-09,Power & Drive Systems,Powertrain Components,Latin America,2743,4139,3310888.86,5010522.08,1396
+2027-09,Power & Drive Systems,Powertrain Components,Middle East & Africa,1785,2851,2109818.03,3427227.2,1066
+2027-09,Power & Drive Systems,Powertrain Components,North America,3442,4673,3778859.34,5205642.78,1231
+2027-09,Safety & Compliance,Brake & Safety Systems,Asia Pacific,5742,7278,2769789.15,3519085.72,1536
+2027-09,Safety & Compliance,Brake & Safety Systems,Europe,5555,6841,3091323.95,3798438.14,1286
+2027-09,Safety & Compliance,Brake & Safety Systems,India,5681,7254,2945137.13,3765593.59,1573
+2027-09,Safety & Compliance,Brake & Safety Systems,Latin America,5133,6807,2891983.33,3832771.52,1674
+2027-09,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,3369,4768,1818607.3,2565093.0100000002,1399
+2027-09,Safety & Compliance,Brake & Safety Systems,North America,6524,8127,3462107.02,4280472.28,1603
+2027-10,Advanced Manufacturing,Chassis & Structural,Asia Pacific,4638,6281,2852886.19,3853765.4499999997,1643
+2027-10,Advanced Manufacturing,Chassis & Structural,Europe,6108,7935,3704994.94,4809611.46,1827
+2027-10,Advanced Manufacturing,Chassis & Structural,India,4405,6020,2813135.42,3815065.9,1615
+2027-10,Advanced Manufacturing,Chassis & Structural,Latin America,4047,5514,2462140.0300000003,3359514.37,1467
+2027-10,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,2201,3360,1396587.32,2110940.34,1159
+2027-10,Advanced Manufacturing,Chassis & Structural,North America,4368,5800,2600100.74,3431537.44,1432
+2027-10,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3868,5259,3264146.68,4484470.2,1391
+2027-10,Advanced Manufacturing,Precision Machined Parts,Europe,4828,6498,4121830.08,5601917.92,1670
+2027-10,Advanced Manufacturing,Precision Machined Parts,India,4496,6278,3703194.64,5205248.09,1782
+2027-10,Advanced Manufacturing,Precision Machined Parts,Latin America,4345,6128,3453161.18,4895377.76,1783
+2027-10,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2061,3195,1766759.4,2752641.17,1134
+2027-10,Advanced Manufacturing,Precision Machined Parts,North America,4984,6574,4091687.6,5454641.54,1590
+2027-10,Electronics & Controls,Electrical Assemblies,Asia Pacific,2710,3875,4212685.95,5971398.850000001,1165
+2027-10,Electronics & Controls,Electrical Assemblies,Europe,3712,5227,5529022.76,7859579.87,1515
+2027-10,Electronics & Controls,Electrical Assemblies,India,3154,4639,4975790.59,7366664.92,1485
+2027-10,Electronics & Controls,Electrical Assemblies,Latin America,2361,3646,3708548.15,5754044.67,1285
+2027-10,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1503,2494,2275032.8,3784563.66,991
+2027-10,Electronics & Controls,Electrical Assemblies,North America,2374,3445,3690066.88,5392767.04,1071
+2027-10,Fluid Control Group,Hydraulic Systems,Asia Pacific,3446,4621,3612052.16,4890384.67,1175
+2027-10,Fluid Control Group,Hydraulic Systems,Europe,3295,4503,3281318.88,4475324.95,1208
+2027-10,Fluid Control Group,Hydraulic Systems,India,3554,4959,3473676.97,4850491.21,1405
+2027-10,Fluid Control Group,Hydraulic Systems,Latin America,2767,3951,2772464.4,3988848.31,1184
+2027-10,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1417,2210,1396024.42,2197887.18,793
+2027-10,Fluid Control Group,Hydraulic Systems,North America,3833,5082,4083915.05,5368026.52,1249
+2027-10,Fluid Control Group,Thermal Management,Asia Pacific,4607,6367,4544306.4799999995,6219588.94,1760
+2027-10,Fluid Control Group,Thermal Management,Europe,4487,6090,4020858.93,5458632.7,1603
+2027-10,Fluid Control Group,Thermal Management,India,3561,4952,3170133.49,4428009.65,1391
+2027-10,Fluid Control Group,Thermal Management,Latin America,4483,6354,4345014.3,6147895.46,1871
+2027-10,Fluid Control Group,Thermal Management,Middle East & Africa,1792,2849,1645982.62,2585919.96,1057
+2027-10,Fluid Control Group,Thermal Management,North America,4677,6362,4219019.94,5727737.78,1685
+2027-10,Power & Drive Systems,Powertrain Components,Asia Pacific,3596,5033,4374322.42,6140910.17,1437
+2027-10,Power & Drive Systems,Powertrain Components,Europe,3683,4961,4606361.37,6216592.29,1278
+2027-10,Power & Drive Systems,Powertrain Components,India,4286,6164,4485735.84,6543208.22,1878
+2027-10,Power & Drive Systems,Powertrain Components,Latin America,2897,4262,3750384.4,5537052.21,1365
+2027-10,Power & Drive Systems,Powertrain Components,Middle East & Africa,1842,2842,2323917.74,3586738.0,1000
+2027-10,Power & Drive Systems,Powertrain Components,North America,3446,4689,3955961.89,5401742.95,1243
+2027-10,Safety & Compliance,Brake & Safety Systems,Asia Pacific,6437,7998,3565579.29,4437128.15,1561
+2027-10,Safety & Compliance,Brake & Safety Systems,Europe,6076,7393,3334574.01,4059259.64,1317
+2027-10,Safety & Compliance,Brake & Safety Systems,India,6112,7685,3394817.55,4265582.18,1573
+2027-10,Safety & Compliance,Brake & Safety Systems,Latin America,5714,7338,3203467.19,4135249.68,1624
+2027-10,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,3096,4384,1658749.28,2347041.53,1288
+2027-10,Safety & Compliance,Brake & Safety Systems,North America,6152,7596,3413484.31,4212949.83,1444
+2027-11,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3435,4725,2175411.92,2984811.04,1290
+2027-11,Advanced Manufacturing,Chassis & Structural,Europe,4535,6150,2759801.11,3736524.43,1615
+2027-11,Advanced Manufacturing,Chassis & Structural,India,4010,5620,2511240.05,3504677.29,1610
+2027-11,Advanced Manufacturing,Chassis & Structural,Latin America,3738,5270,2249356.2,3170052.4899999998,1532
+2027-11,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,2190,3407,1325577.29,2038444.89,1217
+2027-11,Advanced Manufacturing,Chassis & Structural,North America,3898,5306,2257512.67,3029444.18,1408
+2027-11,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,4189,5743,3084603.75,4268497.3,1554
+2027-11,Advanced Manufacturing,Precision Machined Parts,Europe,4439,6101,3555355.86,4912031.39,1662
+2027-11,Advanced Manufacturing,Precision Machined Parts,India,3750,5288,2993076.74,4214203.39,1538
+2027-11,Advanced Manufacturing,Precision Machined Parts,Latin America,4076,5830,3575693.29,5142111.11,1754
+2027-11,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2304,3549,1810763.97,2778355.16,1245
+2027-11,Advanced Manufacturing,Precision Machined Parts,North America,4171,5651,3139451.64,4273317.34,1480
+2027-11,Electronics & Controls,Electrical Assemblies,Asia Pacific,2888,4126,4396575.57,6281652.6,1238
+2027-11,Electronics & Controls,Electrical Assemblies,Europe,2629,3832,4081421.33,5944231.17,1203
+2027-11,Electronics & Controls,Electrical Assemblies,India,2193,3251,3406799.14,5069758.09,1058
+2027-11,Electronics & Controls,Electrical Assemblies,Latin America,2298,3575,3712461.39,5765923.84,1277
+2027-11,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1337,2230,1973875.8,3270828.9699999997,893
+2027-11,Electronics & Controls,Electrical Assemblies,North America,2660,3871,4221228.33,6145107.4,1211
+2027-11,Fluid Control Group,Hydraulic Systems,Asia Pacific,3372,4698,3284322.96,4623831.71,1326
+2027-11,Fluid Control Group,Hydraulic Systems,Europe,3859,5367,3820820.66,5278919.04,1508
+2027-11,Fluid Control Group,Hydraulic Systems,India,2444,3440,2597025.19,3627649.3,996
+2027-11,Fluid Control Group,Hydraulic Systems,Latin America,2753,3930,2701674.05,3885091.81,1177
+2027-11,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1751,2753,1696788.43,2679506.08,1002
+2027-11,Fluid Control Group,Hydraulic Systems,North America,3349,4502,3320208.05,4500341.79,1153
+2027-11,Fluid Control Group,Thermal Management,Asia Pacific,3492,5017,3400040.71,4837702.81,1525
+2027-11,Fluid Control Group,Thermal Management,Europe,4098,5803,3797171.21,5362552.22,1705
+2027-11,Fluid Control Group,Thermal Management,India,4118,5826,3949963.22,5562018.31,1708
+2027-11,Fluid Control Group,Thermal Management,Latin America,3597,5143,3064598.74,4385599.86,1546
+2027-11,Fluid Control Group,Thermal Management,Middle East & Africa,2112,3332,1974478.97,3082704.22,1220
+2027-11,Fluid Control Group,Thermal Management,North America,4022,5596,3720720.12,5188073.47,1574
+2027-11,Power & Drive Systems,Powertrain Components,Asia Pacific,3930,5502,4698543.56,6602697.17,1572
+2027-11,Power & Drive Systems,Powertrain Components,Europe,3626,4923,4407198.92,6004938.75,1297
+2027-11,Power & Drive Systems,Powertrain Components,India,2657,3789,3145440.39,4546670.05,1132
+2027-11,Power & Drive Systems,Powertrain Components,Latin America,3115,4589,3991327.93,5841382.06,1474
+2027-11,Power & Drive Systems,Powertrain Components,Middle East & Africa,1638,2624,1938306.19,3190969.77,986
+2027-11,Power & Drive Systems,Powertrain Components,North America,3945,5378,4403122.18,6034118.74,1433
+2027-11,Safety & Compliance,Brake & Safety Systems,Asia Pacific,4838,6367,2373548.69,3132475.67,1529
+2027-11,Safety & Compliance,Brake & Safety Systems,Europe,5754,7300,3119802.19,3957170.99,1546
+2027-11,Safety & Compliance,Brake & Safety Systems,India,4750,6333,2551471.79,3408523.61,1583
+2027-11,Safety & Compliance,Brake & Safety Systems,Latin America,5386,7126,3015175.96,4002999.4,1740
+2027-11,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2834,4079,1514875.27,2162025.69,1245
+2027-11,Safety & Compliance,Brake & Safety Systems,North America,6028,7694,3199563.7199999997,4056245.32,1666
+2027-12,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3802,5258,2300439.14,3165812.15,1456
+2027-12,Advanced Manufacturing,Chassis & Structural,Europe,4181,5728,2758194.45,3776410.11,1547
+2027-12,Advanced Manufacturing,Chassis & Structural,India,4368,6069,2854687.47,3969455.04,1701
+2027-12,Advanced Manufacturing,Chassis & Structural,Latin America,3317,4720,2038169.3,2899766.69,1403
+2027-12,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,1814,2840,1182508.34,1820731.74,1026
+2027-12,Advanced Manufacturing,Chassis & Structural,North America,3670,5097,2195991.82,3017341.31,1427
+2027-12,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3573,5061,3083740.05,4350193.34,1488
+2027-12,Advanced Manufacturing,Precision Machined Parts,Europe,3627,5037,2913588.07,4091975.16,1410
+2027-12,Advanced Manufacturing,Precision Machined Parts,India,3686,5294,2857634.43,4133474.56,1608
+2027-12,Advanced Manufacturing,Precision Machined Parts,Latin America,2755,3869,2326495.93,3259847.05,1114
+2027-12,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,1745,2835,1450350.92,2340026.44,1090
+2027-12,Advanced Manufacturing,Precision Machined Parts,North America,4547,6227,3774183.7600000002,5194210.46,1680
+2027-12,Electronics & Controls,Electrical Assemblies,Asia Pacific,2229,3307,3475351.23,5161670.82,1078
+2027-12,Electronics & Controls,Electrical Assemblies,Europe,2784,4070,4414705.78,6429458.84,1286
+2027-12,Electronics & Controls,Electrical Assemblies,India,2488,3708,3585353.39,5369654.33,1220
+2027-12,Electronics & Controls,Electrical Assemblies,Latin America,1571,2493,2693539.02,4296574.36,922
+2027-12,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1144,1970,1875716.69,3236598.05,826
+2027-12,Electronics & Controls,Electrical Assemblies,North America,2621,3773,3916586.31,5657826.38,1152
+2027-12,Fluid Control Group,Hydraulic Systems,Asia Pacific,3107,4315,3164088.35,4461901.25,1208
+2027-12,Fluid Control Group,Hydraulic Systems,Europe,2480,3401,2613014.04,3607358.81,921
+2027-12,Fluid Control Group,Hydraulic Systems,India,3696,5213,3660751.4,5169740.97,1517
+2027-12,Fluid Control Group,Hydraulic Systems,Latin America,2466,3494,2551973.97,3658209.65,1028
+2027-12,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1233,1971,1232349.53,1998840.75,738
+2027-12,Fluid Control Group,Hydraulic Systems,North America,3347,4506,3420339.0300000003,4592770.0,1159
+2027-12,Fluid Control Group,Thermal Management,Asia Pacific,2788,4021,2411255.59,3459760.78,1233
+2027-12,Fluid Control Group,Thermal Management,Europe,3651,5234,3469441.44,4976141.43,1583
+2027-12,Fluid Control Group,Thermal Management,India,3722,5198,3154810.09,4453167.28,1476
+2027-12,Fluid Control Group,Thermal Management,Latin America,2954,4304,2792510.23,4048549.71,1350
+2027-12,Fluid Control Group,Thermal Management,Middle East & Africa,1738,2817,1604169.66,2579629.61,1079
+2027-12,Fluid Control Group,Thermal Management,North America,4049,5710,3803071.4099999997,5375292.0,1661
+2027-12,Power & Drive Systems,Powertrain Components,Asia Pacific,3853,5376,4669584.67,6500218.74,1523
+2027-12,Power & Drive Systems,Powertrain Components,Europe,3280,4489,3983057.01,5453317.15,1209
+2027-12,Power & Drive Systems,Powertrain Components,India,3556,5050,3789200.05,5547505.56,1494
+2027-12,Power & Drive Systems,Powertrain Components,Latin America,1803,2673,2172706.46,3218026.79,870
+2027-12,Power & Drive Systems,Powertrain Components,Middle East & Africa,1669,2636,2111121.69,3328635.38,967
+2027-12,Power & Drive Systems,Powertrain Components,North America,3508,4817,3771517.03,5236038.07,1309
+2027-12,Safety & Compliance,Brake & Safety Systems,Asia Pacific,5002,6615,2577261.0300000003,3419951.76,1613
+2027-12,Safety & Compliance,Brake & Safety Systems,Europe,4628,6013,2534594.42,3298081.5,1385
+2027-12,Safety & Compliance,Brake & Safety Systems,India,4932,6449,2539584.99,3341783.34,1517
+2027-12,Safety & Compliance,Brake & Safety Systems,Latin America,2847,3958,1559768.53,2176871.52,1111
+2027-12,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2494,3730,1369295.52,2033423.73,1236
+2027-12,Safety & Compliance,Brake & Safety Systems,North America,5489,7141,3064052.4,3983283.51,1652
+2028-01,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3705,5201,2424972.84,3398877.85,1496
+2028-01,Advanced Manufacturing,Chassis & Structural,Europe,5304,7190,3211823.4,4351595.45,1886
+2028-01,Advanced Manufacturing,Chassis & Structural,India,3372,4894,2164828.49,3132078.85,1522
+2028-01,Advanced Manufacturing,Chassis & Structural,Latin America,2778,4088,1752827.18,2549563.99,1310
+2028-01,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,1849,2853,1215691.26,1859426.51,1004
+2028-01,Advanced Manufacturing,Chassis & Structural,North America,3867,5369,2319619.34,3191933.34,1502
+2028-01,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3075,4319,2415962.39,3434622.62,1244
+2028-01,Advanced Manufacturing,Precision Machined Parts,Europe,4826,6738,4090316.66,5730489.1,1912
+2028-01,Advanced Manufacturing,Precision Machined Parts,India,3770,5429,3210377.0100000002,4645850.86,1659
+2028-01,Advanced Manufacturing,Precision Machined Parts,Latin America,3513,5144,3307595.83,4889607.51,1631
+2028-01,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,1932,2938,1768323.45,2683608.83,1006
+2028-01,Advanced Manufacturing,Precision Machined Parts,North America,3929,5448,3425867.46,4780743.78,1519
+2028-01,Electronics & Controls,Electrical Assemblies,Asia Pacific,3004,4233,4483879.88,6297664.74,1229
+2028-01,Electronics & Controls,Electrical Assemblies,Europe,2908,4253,4307167.37,6350246.88,1345
+2028-01,Electronics & Controls,Electrical Assemblies,India,2237,3413,3791758.16,5765038.57,1176
+2028-01,Electronics & Controls,Electrical Assemblies,Latin America,1980,3103,3140018.76,4912666.7,1123
+2028-01,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1275,2087,1956702.54,3208239.77,812
+2028-01,Electronics & Controls,Electrical Assemblies,North America,2208,3291,3786069.65,5612271.86,1083
+2028-01,Fluid Control Group,Hydraulic Systems,Asia Pacific,3143,4365,3251921.64,4544280.03,1222
+2028-01,Fluid Control Group,Hydraulic Systems,Europe,3689,5147,3661650.62,5113241.17,1458
+2028-01,Fluid Control Group,Hydraulic Systems,India,2632,3848,2779633.68,4014697.37,1216
+2028-01,Fluid Control Group,Hydraulic Systems,Latin America,2125,3163,2159159.91,3230549.98,1038
+2028-01,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1398,2234,1399431.96,2257181.71,836
+2028-01,Fluid Control Group,Hydraulic Systems,North America,3736,5122,4075863.6399999997,5618695.899999999,1386
+2028-01,Fluid Control Group,Thermal Management,Asia Pacific,4119,5877,4252484.25,6021945.28,1758
+2028-01,Fluid Control Group,Thermal Management,Europe,4287,6101,3993506.02,5698830.93,1814
+2028-01,Fluid Control Group,Thermal Management,India,3609,5138,3627540.22,5147136.1,1529
+2028-01,Fluid Control Group,Thermal Management,Latin America,3170,4685,3151305.33,4645005.57,1515
+2028-01,Fluid Control Group,Thermal Management,Middle East & Africa,1560,2500,1489007.61,2365441.91,940
+2028-01,Fluid Control Group,Thermal Management,North America,3954,5654,3642712.78,5201417.22,1700
+2028-01,Power & Drive Systems,Powertrain Components,Asia Pacific,3379,4837,4278004.0,6130688.15,1458
+2028-01,Power & Drive Systems,Powertrain Components,Europe,2961,4110,3598507.3,4981010.36,1149
+2028-01,Power & Drive Systems,Powertrain Components,India,3778,5511,4316255.08,6355075.42,1733
+2028-01,Power & Drive Systems,Powertrain Components,Latin America,2118,3208,2838709.74,4277132.39,1090
+2028-01,Power & Drive Systems,Powertrain Components,Middle East & Africa,1480,2283,1800860.33,2789085.42,803
+2028-01,Power & Drive Systems,Powertrain Components,North America,2715,3745,3332649.48,4635669.88,1030
+2028-01,Safety & Compliance,Brake & Safety Systems,Asia Pacific,5316,6976,2917843.5700000003,3822735.83,1660
+2028-01,Safety & Compliance,Brake & Safety Systems,Europe,5248,6787,3025471.77,3918167.66,1539
+2028-01,Safety & Compliance,Brake & Safety Systems,India,4931,6547,2839570.72,3765156.54,1616
+2028-01,Safety & Compliance,Brake & Safety Systems,Latin America,5292,7165,3104354.36,4232527.87,1873
+2028-01,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2968,4198,1658181.78,2344363.16,1230
+2028-01,Safety & Compliance,Brake & Safety Systems,North America,5760,7541,3144746.51,4101318.85,1781
+2028-02,Advanced Manufacturing,Chassis & Structural,Asia Pacific,2802,3859,1934498.28,2646688.43,1057
+2028-02,Advanced Manufacturing,Chassis & Structural,Europe,4494,6175,2961247.86,4068955.26,1681
+2028-02,Advanced Manufacturing,Chassis & Structural,India,4320,6033,2936988.69,4080907.56,1713
+2028-02,Advanced Manufacturing,Chassis & Structural,Latin America,3516,5072,2182457.58,3130644.13,1556
+2028-02,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,1772,2867,1145407.8,1803112.83,1095
+2028-02,Advanced Manufacturing,Chassis & Structural,North America,3857,5328,2391739.55,3272375.15,1471
+2028-02,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3828,5194,3224178.44,4457565.55,1366
+2028-02,Advanced Manufacturing,Precision Machined Parts,Europe,3673,5132,3195529.25,4517965.38,1459
+2028-02,Advanced Manufacturing,Precision Machined Parts,India,3920,5614,3324690.23,4769474.31,1694
+2028-02,Advanced Manufacturing,Precision Machined Parts,Latin America,3563,5198,2886935.75,4222689.26,1635
+2028-02,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,1762,2820,1385720.32,2194496.25,1058
+2028-02,Advanced Manufacturing,Precision Machined Parts,North America,4456,6090,3419714.18,4710934.48,1634
+2028-02,Electronics & Controls,Electrical Assemblies,Asia Pacific,1615,2364,2846363.37,4148525.61,749
+2028-02,Electronics & Controls,Electrical Assemblies,Europe,2868,4244,4805580.18,7108159.58,1376
+2028-02,Electronics & Controls,Electrical Assemblies,India,2624,3984,4024663.31,6149645.7700000005,1360
+2028-02,Electronics & Controls,Electrical Assemblies,Latin America,1996,3182,3366330.31,5411741.32,1186
+2028-02,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1062,1762,1719938.66,2811575.35,700
+2028-02,Electronics & Controls,Electrical Assemblies,North America,2375,3515,3732252.6,5539829.76,1140
+2028-02,Fluid Control Group,Hydraulic Systems,Asia Pacific,2252,3059,2365618.69,3268476.73,807
+2028-02,Fluid Control Group,Hydraulic Systems,Europe,2896,4085,3120554.91,4375515.93,1189
+2028-02,Fluid Control Group,Hydraulic Systems,India,3037,4343,3121791.67,4479782.63,1306
+2028-02,Fluid Control Group,Hydraulic Systems,Latin America,2446,3564,2581025.0,3789980.04,1118
+2028-02,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1195,1880,1213053.7,1895646.98,685
+2028-02,Fluid Control Group,Hydraulic Systems,North America,2847,3923,2993243.68,4100262.02,1076
+2028-02,Fluid Control Group,Thermal Management,Asia Pacific,2834,3964,2919524.81,4065070.56,1130
+2028-02,Fluid Control Group,Thermal Management,Europe,3735,5280,3596009.3,5075208.19,1545
+2028-02,Fluid Control Group,Thermal Management,India,3604,5183,3339471.46,4798116.68,1579
+2028-02,Fluid Control Group,Thermal Management,Latin America,3710,5349,3422615.13,4922373.59,1639
+2028-02,Fluid Control Group,Thermal Management,Middle East & Africa,1792,2906,1766313.07,2827880.35,1114
+2028-02,Fluid Control Group,Thermal Management,North America,4016,5589,3912302.12,5444941.41,1573
+2028-02,Power & Drive Systems,Powertrain Components,Asia Pacific,2411,3383,3127757.95,4376271.78,972
+2028-02,Power & Drive Systems,Powertrain Components,Europe,3635,5022,4891329.59,6789033.9399999995,1387
+2028-02,Power & Drive Systems,Powertrain Components,India,2882,4186,3341582.66,4929073.93,1304
+2028-02,Power & Drive Systems,Powertrain Components,Latin America,2714,4112,3665432.16,5499301.1,1398
+2028-02,Power & Drive Systems,Powertrain Components,Middle East & Africa,1438,2378,1874158.98,3046407.25,940
+2028-02,Power & Drive Systems,Powertrain Components,North America,4080,5679,4638273.35,6516181.27,1599
+2028-02,Safety & Compliance,Brake & Safety Systems,Asia Pacific,3639,4783,2021088.28,2680359.15,1144
+2028-02,Safety & Compliance,Brake & Safety Systems,Europe,5536,7128,3074291.39,3970325.89,1592
+2028-02,Safety & Compliance,Brake & Safety Systems,India,5164,6896,2872919.7399999998,3845641.0300000003,1732
+2028-02,Safety & Compliance,Brake & Safety Systems,Latin America,4278,5906,2454846.53,3408277.33,1628
+2028-02,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2090,3148,1168511.58,1738027.68,1058
+2028-02,Safety & Compliance,Brake & Safety Systems,North America,5501,7057,3205189.04,4109101.51,1556
+2028-03,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3708,5050,2325290.19,3155557.26,1342
+2028-03,Advanced Manufacturing,Chassis & Structural,Europe,4318,5771,2835001.12,3790628.83,1453
+2028-03,Advanced Manufacturing,Chassis & Structural,India,4581,6343,2952030.85,4084645.99,1762
+2028-03,Advanced Manufacturing,Chassis & Structural,Latin America,4031,5610,2600031.79,3631554.53,1579
+2028-03,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,1972,2972,1281217.39,1906316.28,1000
+2028-03,Advanced Manufacturing,Chassis & Structural,North America,3935,5288,2383754.7800000003,3157969.76,1353
+2028-03,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3538,4904,2878685.31,4001195.26,1366
+2028-03,Advanced Manufacturing,Precision Machined Parts,Europe,4515,6100,3599603.3,4907051.39,1585
+2028-03,Advanced Manufacturing,Precision Machined Parts,India,3912,5576,3139792.98,4464985.47,1664
+2028-03,Advanced Manufacturing,Precision Machined Parts,Latin America,4072,5768,3756182.92,5337289.77,1696
+2028-03,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,1917,2932,1607964.63,2450671.06,1015
+2028-03,Advanced Manufacturing,Precision Machined Parts,North America,4360,5913,3822177.98,5197844.92,1553
+2028-03,Electronics & Controls,Electrical Assemblies,Asia Pacific,3000,4218,4497236.49,6357292.05,1218
+2028-03,Electronics & Controls,Electrical Assemblies,Europe,2634,3788,4192642.9899999998,6042427.46,1154
+2028-03,Electronics & Controls,Electrical Assemblies,India,2391,3551,3719809.0100000002,5527976.59,1160
+2028-03,Electronics & Controls,Electrical Assemblies,Latin America,2308,3506,3778183.6,5738088.87,1198
+2028-03,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1170,1970,1861325.57,3168726.93,800
+2028-03,Electronics & Controls,Electrical Assemblies,North America,2912,4082,4762066.99,6682317.93,1170
+2028-03,Fluid Control Group,Hydraulic Systems,Asia Pacific,3528,4939,3586253.24,5049314.62,1411
+2028-03,Fluid Control Group,Hydraulic Systems,Europe,3479,4788,3622155.68,5014954.32,1309
+2028-03,Fluid Control Group,Hydraulic Systems,India,3585,5038,3931714.68,5492888.64,1453
+2028-03,Fluid Control Group,Hydraulic Systems,Latin America,2931,4162,3002628.45,4311633.18,1231
+2028-03,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1446,2229,1489925.34,2305563.38,783
+2028-03,Fluid Control Group,Hydraulic Systems,North America,3789,5051,3944965.7,5259512.87,1262
+2028-03,Fluid Control Group,Thermal Management,Asia Pacific,3629,5115,3385105.9,4744753.5,1486
+2028-03,Fluid Control Group,Thermal Management,Europe,4647,6487,4594308.49,6412988.53,1840
+2028-03,Fluid Control Group,Thermal Management,India,4890,6729,4684342.7700000005,6452508.66,1839
+2028-03,Fluid Control Group,Thermal Management,Latin America,3341,4741,3101038.78,4400039.34,1400
+2028-03,Fluid Control Group,Thermal Management,Middle East & Africa,1805,2839,1743440.52,2726590.91,1034
+2028-03,Fluid Control Group,Thermal Management,North America,4472,6066,4314303.83,5868917.77,1594
+2028-03,Power & Drive Systems,Powertrain Components,Asia Pacific,4279,5918,5359809.54,7465850.73,1639
+2028-03,Power & Drive Systems,Powertrain Components,Europe,3303,4478,3840211.76,5249354.87,1175
+2028-03,Power & Drive Systems,Powertrain Components,India,4068,5786,4737029.06,6839583.15,1718
+2028-03,Power & Drive Systems,Powertrain Components,Latin America,2577,3903,3242050.48,4908524.4,1326
+2028-03,Power & Drive Systems,Powertrain Components,Middle East & Africa,1577,2524,1946026.04,3133998.47,947
+2028-03,Power & Drive Systems,Powertrain Components,North America,3306,4493,3772908.2399999998,5173255.44,1187
+2028-03,Safety & Compliance,Brake & Safety Systems,Asia Pacific,5660,7187,2837521.82,3622548.67,1527
+2028-03,Safety & Compliance,Brake & Safety Systems,Europe,5203,6502,3019522.04,3776167.16,1299
+2028-03,Safety & Compliance,Brake & Safety Systems,India,5627,7186,3032436.75,3885782.97,1559
+2028-03,Safety & Compliance,Brake & Safety Systems,Latin America,4869,6480,2842570.26,3790364.68,1611
+2028-03,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,3025,4328,1700336.6,2424675.96,1303
+2028-03,Safety & Compliance,Brake & Safety Systems,North America,6410,8051,3525196.08,4410289.61,1641
+2028-04,Advanced Manufacturing,Chassis & Structural,Asia Pacific,4559,6334,2925981.8,4042071.92,1775
+2028-04,Advanced Manufacturing,Chassis & Structural,Europe,5824,7738,3661852.53,4853354.59,1914
+2028-04,Advanced Manufacturing,Chassis & Structural,India,3831,5375,2560022.02,3568863.49,1544
+2028-04,Advanced Manufacturing,Chassis & Structural,Latin America,3787,5324,2387535.32,3373141.44,1537
+2028-04,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,1939,3010,1281120.83,1958989.41,1071
+2028-04,Advanced Manufacturing,Chassis & Structural,North America,4075,5506,2523653.32,3387524.09,1431
+2028-04,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,3810,5331,3335482.08,4683760.44,1521
+2028-04,Advanced Manufacturing,Precision Machined Parts,Europe,4533,6258,4024816.77,5604562.45,1725
+2028-04,Advanced Manufacturing,Precision Machined Parts,India,4041,5744,3467139.23,4964083.39,1703
+2028-04,Advanced Manufacturing,Precision Machined Parts,Latin America,4054,5814,3342648.7,4827068.25,1760
+2028-04,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,1875,2943,1666454.19,2624105.23,1068
+2028-04,Advanced Manufacturing,Precision Machined Parts,North America,4615,6268,3922121.1,5369632.64,1653
+2028-04,Electronics & Controls,Electrical Assemblies,Asia Pacific,2707,3941,4342301.04,6281686.2,1234
+2028-04,Electronics & Controls,Electrical Assemblies,Europe,3490,4980,5378313.27,7762750.38,1490
+2028-04,Electronics & Controls,Electrical Assemblies,India,2752,4104,4524255.76,6799377.43,1352
+2028-04,Electronics & Controls,Electrical Assemblies,Latin America,2213,3484,3608487.17,5735514.61,1271
+2028-04,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1389,2367,2184449.9,3759620.18,978
+2028-04,Electronics & Controls,Electrical Assemblies,North America,2264,3285,3649456.66,5339690.37,1021
+2028-04,Fluid Control Group,Hydraulic Systems,Asia Pacific,3404,4728,3704053.55,5183355.58,1324
+2028-04,Fluid Control Group,Hydraulic Systems,Europe,3106,4340,3213303.3,4485773.73,1234
+2028-04,Fluid Control Group,Hydraulic Systems,India,3077,4451,3115528.52,4506955.69,1374
+2028-04,Fluid Control Group,Hydraulic Systems,Latin America,2561,3763,2672803.75,3981900.0,1202
+2028-04,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1243,1979,1279915.32,2054449.73,736
+2028-04,Fluid Control Group,Hydraulic Systems,North America,3590,4892,3985888.93,5375584.3,1302
+2028-04,Fluid Control Group,Thermal Management,Asia Pacific,4529,6250,4707904.91,6479241.21,1721
+2028-04,Fluid Control Group,Thermal Management,Europe,4387,5935,4088563.95,5530931.29,1548
+2028-04,Fluid Control Group,Thermal Management,India,3259,4511,3029244.25,4209566.44,1252
+2028-04,Fluid Control Group,Thermal Management,Latin America,4345,6131,4406770.12,6193908.09,1786
+2028-04,Fluid Control Group,Thermal Management,Middle East & Africa,1647,2610,1583468.94,2481836.21,963
+2028-04,Fluid Control Group,Thermal Management,North America,4585,6230,4295127.09,5836034.37,1645
+2028-04,Power & Drive Systems,Powertrain Components,Asia Pacific,3578,5088,4525024.78,6482984.09,1510
+2028-04,Power & Drive Systems,Powertrain Components,Europe,3433,4722,4477304.76,6148650.43,1289
+2028-04,Power & Drive Systems,Powertrain Components,India,3709,5506,4033602.6,6047742.9,1797
+2028-04,Power & Drive Systems,Powertrain Components,Latin America,2719,4054,3664443.63,5444536.59,1335
+2028-04,Power & Drive Systems,Powertrain Components,Middle East & Africa,1670,2679,2177863.19,3482548.01,1009
+2028-04,Power & Drive Systems,Powertrain Components,North America,3249,4439,3879926.71,5321288.67,1190
+2028-04,Safety & Compliance,Brake & Safety Systems,Asia Pacific,6499,8226,3730597.63,4750378.41,1727
+2028-04,Safety & Compliance,Brake & Safety Systems,Europe,5749,7145,3277392.67,4074166.61,1396
+2028-04,Safety & Compliance,Brake & Safety Systems,India,5472,7075,3165735.37,4093664.4699999997,1603
+2028-04,Safety & Compliance,Brake & Safety Systems,Latin America,5453,7147,3177670.57,4174526.97,1694
+2028-04,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2841,4039,1581599.99,2240497.99,1198
+2028-04,Safety & Compliance,Brake & Safety Systems,North America,5876,7323,3382507.89,4218355.54,1447
+2028-05,Advanced Manufacturing,Chassis & Structural,Asia Pacific,3414,4742,2246882.77,3105229.04,1328
+2028-05,Advanced Manufacturing,Chassis & Structural,Europe,4658,6421,2939471.03,4047566.17,1763
+2028-05,Advanced Manufacturing,Chassis & Structural,India,4179,5945,2697546.16,3820806.19,1766
+2028-05,Advanced Manufacturing,Chassis & Structural,Latin America,3822,5423,2393826.47,3392805.25,1601
+2028-05,Advanced Manufacturing,Chassis & Structural,Middle East & Africa,2150,3394,1351809.41,2112701.64,1244
+2028-05,Advanced Manufacturing,Chassis & Structural,North America,3955,5424,2387478.11,3230107.37,1469
+2028-05,Advanced Manufacturing,Precision Machined Parts,Asia Pacific,4149,5691,3179996.9899999998,4410485.15,1542
+2028-05,Advanced Manufacturing,Precision Machined Parts,Europe,4468,6188,3731180.91,5194981.66,1720
+2028-05,Advanced Manufacturing,Precision Machined Parts,India,4051,5762,3383825.43,4799324.09,1711
+2028-05,Advanced Manufacturing,Precision Machined Parts,Latin America,4116,5967,3748456.33,5491651.07,1851
+2028-05,Advanced Manufacturing,Precision Machined Parts,Middle East & Africa,2248,3512,1821481.56,2860129.55,1264
+2028-05,Advanced Manufacturing,Precision Machined Parts,North America,4156,5746,3250726.3,4489305.28,1590
+2028-05,Electronics & Controls,Electrical Assemblies,Asia Pacific,2857,4085,4498704.88,6469791.73,1228
+2028-05,Electronics & Controls,Electrical Assemblies,Europe,2617,3848,4232921.49,6254898.71,1231
+2028-05,Electronics & Controls,Electrical Assemblies,India,2438,3738,3773667.19,5808680.51,1300
+2028-05,Electronics & Controls,Electrical Assemblies,Latin America,2292,3545,3846868.05,5958720.37,1253
+2028-05,Electronics & Controls,Electrical Assemblies,Middle East & Africa,1315,2262,1996246.77,3422229.42,947
+2028-05,Electronics & Controls,Electrical Assemblies,North America,2647,3843,4359420.22,6343021.12,1196
+2028-05,Fluid Control Group,Hydraulic Systems,Asia Pacific,3333,4704,3377335.77,4801470.75,1371
+2028-05,Fluid Control Group,Hydraulic Systems,Europe,3810,5408,3934318.36,5607109.42,1598
+2028-05,Fluid Control Group,Hydraulic Systems,India,2914,4252,3172794.4,4596027.09,1338
+2028-05,Fluid Control Group,Hydraulic Systems,Latin America,2670,3864,2726770.57,3974843.4,1194
+2028-05,Fluid Control Group,Hydraulic Systems,Middle East & Africa,1660,2712,1667131.17,2741746.67,1052
+2028-05,Fluid Control Group,Hydraulic Systems,North America,3280,4523,3377233.57,4658669.18,1243
+2028-05,Fluid Control Group,Thermal Management,Asia Pacific,3813,5329,3864798.7600000002,5330497.89,1516
+2028-05,Fluid Control Group,Thermal Management,Europe,4635,6447,4455975.63,6196610.08,1812
+2028-05,Fluid Control Group,Thermal Management,India,4546,6326,4478452.2700000005,6199304.61,1780
+2028-05,Fluid Control Group,Thermal Management,Latin America,4017,5720,3566744.06,5098680.75,1703
+2028-05,Fluid Control Group,Thermal Management,Middle East & Africa,2211,3480,2163977.53,3391024.33,1269
+2028-05,Fluid Control Group,Thermal Management,North America,4410,6008,4245430.53,5809425.7,1598
+2028-05,Power & Drive Systems,Powertrain Components,Asia Pacific,3779,5397,4717557.47,6749747.82,1618
+2028-05,Power & Drive Systems,Powertrain Components,Europe,3578,4962,4510526.91,6314338.8,1384
+2028-05,Power & Drive Systems,Powertrain Components,India,3004,4431,3647897.56,5481642.72,1427
+2028-05,Power & Drive Systems,Powertrain Components,Latin America,3010,4547,4000406.54,6013427.43,1537
+2028-05,Power & Drive Systems,Powertrain Components,Middle East & Africa,1585,2603,1949421.78,3231917.1,1018
+2028-05,Power & Drive Systems,Powertrain Components,North America,3902,5399,4517993.46,6323735.48,1497
+2028-05,Safety & Compliance,Brake & Safety Systems,Asia Pacific,5018,6505,2558669.72,3330084.67,1487
+2028-05,Safety & Compliance,Brake & Safety Systems,Europe,5896,7419,3320240.61,4181336.08,1523
+2028-05,Safety & Compliance,Brake & Safety Systems,India,5354,6978,2943701.13,3854005.35,1624
+2028-05,Safety & Compliance,Brake & Safety Systems,Latin America,5607,7282,3272124.31,4261371.05,1675
+2028-05,Safety & Compliance,Brake & Safety Systems,Middle East & Africa,2825,4097,1564813.81,2251018.17,1272
+2028-05,Safety & Compliance,Brake & Safety Systems,North America,6247,7863,3448782.14,4329907.4,1616
